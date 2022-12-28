@@ -13,6 +13,7 @@
 
 1.Добавлена текстура амулетов.
 	- assets-minecraft-mcpatcher-cit-amulet
+	
 2. Были оптимизированы некоторые модели.
 	- bobafetthat.json
 	- revansword.json
