@@ -1,13 +1,13 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"e": "reserv items/Z6 Riot Control Baton/Z6 Riot Control Baton_e",
-		"w": "reserv items/Z6 Riot Control Baton/Z6 Riot Control Baton_w",
-		"s": "reserv items/Z6 Riot Control Baton/Z6 Riot Control Baton_s",
-		"n": "reserv items/Z6 Riot Control Baton/Z6 Riot Control Baton_n",
-		"d": "reserv items/Z6 Riot Control Baton/Z6 Riot Control Baton_d",
-		"u": "reserv items/Z6 Riot Control Baton/Z6 Riot Control Baton_u",
-		"effect": "reserv items/Z6 Riot Control Baton/effect"
+		"e": "reserv items/baton/baton_e",
+		"w": "reserv items/baton/baton_w",
+		"s": "reserv items/baton/baton_s",
+		"n": "reserv items/baton/baton_n",
+		"d": "reserv items/baton/baton_d",
+		"u": "reserv items/baton/baton_u",
+		"effect": "reserv items/baton/effect"
 	},
 	"elements": [
 		{

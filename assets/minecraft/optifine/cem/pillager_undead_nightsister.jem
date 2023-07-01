@@ -1,0 +1,72 @@
+{
+	"texture": "undead_nightsister.png",
+	"textureSize": [64, 48],
+	"models": [
+		{
+			"part": "head",
+			"id": "head",
+			"invertAxis": "xy",
+			"translate": [0, -23.5, 0],
+			"boxes": [
+				{"coordinates": [-4, 23.5, -4, 8, 8, 8], "textureOffset": [0, 0], "sizeAdd": -0.5}
+			]
+		},
+		{
+			"part": "headwear",
+			"id": "headwear",
+			"invertAxis": "xy",
+			"translate": [0, -24, 0]
+		},
+		{
+			"part": "body",
+			"id": "body",
+			"invertAxis": "xy",
+			"translate": [0, -24, 0],
+			"boxes": [
+				{"coordinates": [-4, 12, -2, 1, 3, 4], "textureOffset": [23, 18]},
+				{"coordinates": [3, 12, -2, 1, 3, 4], "textureOffset": [16, 18]},
+				{"coordinates": [-4, 18, -2, 1, 6, 4], "textureOffset": [23, 16]},
+				{"coordinates": [3, 18, -2, 1, 6, 4], "textureOffset": [23, 16]},
+				{"coordinates": [-3, 12, -2, 6, 12, 4], "textureOffset": [17, 16]}
+			]
+		},
+		{
+			"part": "left_arm",
+			"id": "left_arm",
+			"invertAxis": "xy",
+			"translate": [5, -22, 0],
+			"mirrorTexture": "u",
+			"boxes": [
+				{"coordinates": [-6.5, 12, -2, 3, 12, 4], "textureOffset": [40, 16], "sizeAdd": -0.5}
+			]
+		},
+		{
+			"part": "right_arm",
+			"id": "right_arm",
+			"invertAxis": "xy",
+			"translate": [-5, -22, 0],
+			"boxes": [
+				{"coordinates": [3.5, 12, -2, 3, 12, 4], "textureOffset": [40, 16], "sizeAdd": -0.5}
+			]
+		},
+		{
+			"part": "left_leg",
+			"id": "left_leg",
+			"invertAxis": "xy",
+			"translate": [2, -12, -0.1],
+			"mirrorTexture": "u",
+			"boxes": [
+				{"coordinates": [-3.5, 0, -2, 3, 12, 4], "textureOffset": [0, 16]}
+			]
+		},
+		{
+			"part": "right_leg",
+			"id": "right_leg",
+			"invertAxis": "xy",
+			"translate": [-2, -12, -0.1],
+			"boxes": [
+				{"coordinates": [0.5, 0, -2, 3, 12, 4], "textureOffset": [0, 16]}
+			]
+		}
+	]
+}

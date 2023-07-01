@@ -1,0 +1,90 @@
+{
+	"texture": "tusken.png",
+	"textureSize": [64, 64],
+	"models": [
+		{
+			"part": "head",
+			"id": "head",
+			"invertAxis": "xy",
+			"translate": [0, 0, 0],
+			"boxes": [
+				{"coordinates": [-4, 0, -4, 8, 8, 8], "textureOffset": [0, 0]},
+				{"coordinates": [2, 8, 1, 1, 1, 1], "textureOffset": [40, 2]},
+				{"coordinates": [-3, 8, 1, 1, 1, 1], "textureOffset": [40, 2]},
+				{"coordinates": [2, 8, -2, 1, 1, 1], "textureOffset": [40, 2]},
+				{"coordinates": [-3, 8, -2, 1, 1, 1], "textureOffset": [40, 2]},
+				{"coordinates": [2, 5, -5, 1, 1, 1], "textureOffset": [40, 2]},
+				{"coordinates": [1, 4, -5, 1, 1, 1], "textureOffset": [40, 2]},
+				{"coordinates": [2, 3, -5, 1, 1, 1], "textureOffset": [40, 2]},
+				{"coordinates": [3, 4, -5, 1, 1, 1], "textureOffset": [40, 2]},
+				{"coordinates": [-3, 5, -5, 1, 1, 1], "textureOffset": [40, 2]},
+				{"coordinates": [-4, 4, -5, 1, 1, 1], "textureOffset": [40, 2]},
+				{"coordinates": [-3, 3, -5, 1, 1, 1], "textureOffset": [40, 2]},
+				{"coordinates": [-2, 4, -5, 1, 1, 1], "textureOffset": [40, 2]}
+			]
+		},
+		{
+			"part": "nose",
+			"id": "nose",
+			"invertAxis": "xy",
+			"translate": [0, 0, 0]
+		},
+		{
+			"part": "body",
+			"id": "body",
+			"invertAxis": "xy",
+			"translate": [0, 0, 0],
+			"boxes": [
+				{"coordinates": [-4, -12, -2, 8, 12, 4], "textureOffset": [16, 16]}
+			]
+		},
+		{
+			"part": "right_leg",
+			"id": "right_leg",
+			"invertAxis": "xy",
+			"translate": [0, 0, 0],
+			"boxes": [
+				{"coordinates": [-2, -12, -2, 4, 12, 4], "textureOffset": [0, 16]}
+			]
+		},
+		{
+			"part": "left_leg",
+			"id": "left_leg",
+			"invertAxis": "xy",
+			"translate": [0, 0, 0],
+			"submodels": [
+				{
+					"invertAxis": "xy",
+					"mirrorTexture": "u",
+					"boxes": [
+						{"coordinates": [-2, -12, -2, 4, 12, 4], "textureOffset": [0, 16]}
+					]
+				}
+			]
+		},
+		{
+			"part": "right_arm",
+			"id": "right_arm",
+			"invertAxis": "xy",
+			"translate": [0, 0, 0],
+			"boxes": [
+				{"coordinates": [-2, -11, -3, 4, 12, 4], "textureOffset": [40, 16]}
+			]
+		},
+		{
+			"part": "left_arm",
+			"id": "left_arm",
+			"invertAxis": "xy",
+			"translate": [0, 0, 0],
+			"submodels": [
+				{
+					"invertAxis": "xy",
+					"mirrorTexture": "u",
+					"boxes": [
+						{"coordinates": [-2, -11, -3, 4, 12, 4], "textureOffset": [40, 16]}
+					]
+				}
+			]
+		}
+	]
+}

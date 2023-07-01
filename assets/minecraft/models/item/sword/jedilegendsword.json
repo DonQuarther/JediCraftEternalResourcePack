@@ -1,11 +1,11 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"Lightsaber_e&w": "reserv items/Crossguard Lightsaber (Green)/Lightsaber_e&w",
-		"Lightsaber_n&s": "reserv items/Crossguard Lightsaber (Green)/Lightsaber_n&s",
-		"Lightsaber_u": "reserv items/Crossguard Lightsaber (Green)/Lightsaber_u",
-		"Lightsaber_d": "reserv items/Crossguard Lightsaber (Green)/Lightsaber_d",
-		"color_01": "reserv items/Crossguard Lightsaber (Green)/Lightsaber_Bladecolor_01"
+		"Lightsaber_e&w": "reserv items/jedilegend/jedilegend_e&w",
+		"Lightsaber_n&s": "reserv items/jedilegend/jedilegend_n&s",
+		"Lightsaber_u": "reserv items/jedilegend/jedilegend_u",
+		"Lightsaber_d": "reserv items/jedilegend/jedilegend_d",
+		"color_01": "reserv items/jedilegend/jedilegend_01"
 	},
 	"elements": [
 		{

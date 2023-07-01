@@ -1,0 +1,122 @@
+{
+	"texture": "probe_droid.png",
+	"textureSize": [64, 32],
+	"models": [
+		{
+			"part": "head",
+			"id": "head",
+			"invertAxis": "xy",
+			"translate": [0, -28, 0],
+			"boxes": [
+				{"coordinates": [-1.75, 33.5, -0.5, 1, 6, 1], "textureOffset": [39, 1]},
+				{"coordinates": [-4, 33.5, 2, 1, 5, 1], "textureOffset": [53, 11]},
+				{"coordinates": [-5, 29, -5, 10, 4, 10], "textureOffset": [0, 18], "sizeAdd": 1},
+				{"coordinates": [3.5, 30, -3, 2, 2, 2], "textureOffset": [0, 23], "sizeAdd": 1},
+				{"coordinates": [3.5, 30, -6.5, 2, 2, 2], "textureOffset": [41, 28]},
+				{"coordinates": [-1.5, 29.5, -6, 3, 3, 1], "textureOffset": [0, 18], "sizeAdd": 1},
+				{"coordinates": [-5, 29.5, -6.75, 2, 2, 1], "textureOffset": [31, 21]},
+				{"coordinates": [-5.75, 30, 0, 1, 2, 2], "textureOffset": [56, 20], "sizeAdd": 1},
+				{"coordinates": [-1.5, 29.5, 5, 3, 3, 1], "textureOffset": [0, 18], "sizeAdd": 1},
+				{"coordinates": [-3, 28, -3, 6, 1, 6], "textureOffset": [40, 3]},
+				{"coordinates": [-6.5, 24, -6.5, 13, 4, 13], "textureOffset": [0, 1], "sizeAdd": 1},
+				{"coordinates": [-4, 20, -4, 8, 2, 8], "textureOffset": [31, 18], "sizeAdd": 1}
+			],
+			"submodels": [
+				{
+					"id": "blaster",
+					"invertAxis": "xy",
+					"translate": [-2, 3, -3],
+					"rotate": [0, -10, 0],
+					"boxes": [
+						{"coordinates": [8, 26, -7.5, 1, 1, 2], "textureOffset": [0, 1]},
+						{"coordinates": [7.5, 26, -5.5, 2, 1, 2], "textureOffset": [0, 1]}
+					]
+				}
+			]
+		},
+		{
+			"part": "stick1",
+			"id": "stick1",
+			"invertAxis": "xy",
+			"translate": [0, 0, 0]
+		},
+		{
+			"part": "stick2",
+			"id": "stick2",
+			"invertAxis": "xy",
+			"translate": [0, 0, 0]
+		},
+		{
+			"part": "stick3",
+			"id": "stick3",
+			"invertAxis": "xy",
+			"translate": [0, 0, 0]
+		},
+		{
+			"part": "stick4",
+			"id": "stick4",
+			"invertAxis": "xy",
+			"translate": [0, 0, 0]
+		},
+		{
+			"part": "stick5",
+			"id": "stick5",
+			"invertAxis": "xy",
+			"translate": [-5, -22, 5]
+		},
+		{
+			"part": "stick6",
+			"id": "stick6",
+			"invertAxis": "xy",
+			"translate": [5, -22, 5]
+		},
+		{
+			"part": "stick7",
+			"id": "stick7",
+			"invertAxis": "xy",
+			"translate": [5, -22, -5]
+		},
+		{
+			"part": "stick8",
+			"id": "stick8",
+			"invertAxis": "xy",
+			"translate": [-5, -22, -5]
+		},
+		{
+			"part": "stick9",
+			"id": "stick9",
+			"invertAxis": "xy",
+			"translate": [-2, -15, 1],
+			"boxes": [
+				{"coordinates": [1, 10.85, -3, 2, 11, 1], "textureOffset": [0, 0]}
+			]
+		},
+		{
+			"part": "stick10",
+			"id": "stick10",
+			"invertAxis": "xy",
+			"translate": [2, -15, 1],
+			"boxes": [
+				{"coordinates": [-3, 10.85, -3, 2, 11, 1], "textureOffset": [0, 0]}
+			]
+		},
+		{
+			"part": "stick11",
+			"id": "stick11",
+			"invertAxis": "xy",
+			"translate": [2, -15, -1],
+			"boxes": [
+				{"coordinates": [-3, 10.85, 2, 2, 11, 1], "textureOffset": [0, 0]}
+			]
+		},
+		{
+			"part": "stick12",
+			"id": "stick12",
+			"invertAxis": "xy",
+			"translate": [-2, -15, -1],
+			"boxes": [
+				{"coordinates": [1, 10.85, 2, 2, 11, 1], "textureOffset": [0, 0]}
+			]
+		}
+	]
+}

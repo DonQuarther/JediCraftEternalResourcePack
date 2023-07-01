@@ -1,0 +1,256 @@
+{
+	"texture": "firespray_class_interceptor.png",
+	"textureSize": [128, 128],
+	"models": [
+		{
+			"part": "body",
+			"id": "body",
+			"invertAxis": "xy",
+			"translate": [0, 0, 0],
+			"boxes": [
+				{
+					"coordinates": [-5, 20.91284, 11.49619, 10, 2, 5],
+					"uvNorth": [64, 47, 74, 49],
+					"uvEast": [100, 41, 105, 43],
+					"uvSouth": [98, 50, 108, 52],
+					"uvWest": [100, 43, 105, 45],
+					"uvUp": [24, 95, 14, 90],
+					"uvDown": [100, 82, 90, 87]
+				},
+				{
+					"coordinates": [-9, 16.91284, 11.49619, 18, 4, 5],
+					"uvNorth": [87, 0, 105, 4],
+					"uvEast": [16, 85, 21, 89],
+					"uvSouth": [87, 4, 105, 8],
+					"uvWest": [98, 46, 103, 50],
+					"uvUp": [103, 67, 85, 62],
+					"uvDown": [103, 67, 85, 72]
+				},
+				{
+					"coordinates": [-12, -11.08716, 11.49619, 24, 28, 5],
+					"uvNorth": [104, 100, 128, 128],
+					"uvEast": [44, 0, 49, 28],
+					"uvSouth": [104, 72, 128, 100],
+					"uvWest": [49, 0, 54, 28],
+					"uvUp": [66, 111, 42, 106],
+					"uvDown": [98, 47, 74, 52]
+				},
+				{
+					"coordinates": [-10, -18.08716, 11.49619, 20, 7, 5],
+					"uvNorth": [32, 68, 52, 75],
+					"uvEast": [13, 95, 18, 102],
+					"uvSouth": [65, 70, 85, 77],
+					"uvWest": [18, 95, 23, 102],
+					"uvUp": [96, 57, 76, 52],
+					"uvDown": [96, 57, 76, 62]
+				},
+				{
+					"coordinates": [-7, -25.08716, 11.49619, 14, 7, 5],
+					"uvNorth": [77, 20, 91, 27],
+					"uvEast": [98, 23, 103, 30],
+					"uvSouth": [77, 27, 91, 34],
+					"uvWest": [42, 98, 47, 105],
+					"uvUp": [56, 91, 42, 86],
+					"uvDown": [101, 8, 87, 13]
+				},
+				{
+					"coordinates": [-8, 8.91284, 4.49619, 16, 3, 6],
+					"uvNorth": [91, 30, 107, 33],
+					"uvEast": [47, 98, 53, 101],
+					"uvSouth": [56, 91, 72, 94],
+					"uvWest": [89, 98, 95, 101],
+					"uvUp": [58, 86, 42, 80],
+					"uvDown": [100, 34, 84, 40]
+				},
+				{
+					"coordinates": [-10, -3.08716, 3.49619, 20, 12, 8],
+					"uvNorth": [32, 56, 52, 68],
+					"uvEast": [0, 78, 8, 90],
+					"uvSouth": [56, 50, 76, 62],
+					"uvWest": [8, 78, 16, 90],
+					"uvUp": [84, 47, 64, 39],
+					"uvDown": [85, 62, 65, 70]
+				},
+				{
+					"coordinates": [-9, -8.08716, 15.99619, 7, 7, 2],
+					"uvNorth": [16, 78, 23, 85],
+					"uvEast": [54, 0, 56, 7],
+					"uvSouth": [91, 23, 98, 30],
+					"uvWest": [54, 7, 56, 14],
+					"uvUp": [107, 35, 100, 33],
+					"uvDown": [107, 35, 100, 37]
+				},
+				{
+					"coordinates": [2, -8.08716, 15.99619, 7, 7, 2],
+					"uvNorth": [42, 91, 49, 98],
+					"uvEast": [54, 14, 56, 21],
+					"uvSouth": [49, 91, 56, 98],
+					"uvWest": [54, 21, 56, 28],
+					"uvUp": [107, 39, 100, 37],
+					"uvDown": [107, 39, 100, 41]
+				},
+				{
+					"coordinates": [-8, -11.08716, 6.49619, 16, 28, 5],
+					"uvNorth": [24, 28, 40, 56],
+					"uvEast": [32, 75, 37, 103],
+					"uvSouth": [40, 28, 56, 56],
+					"uvWest": [37, 75, 42, 103],
+					"uvUp": [101, 77, 85, 72],
+					"uvDown": [90, 85, 74, 90]
+				},
+				{
+					"coordinates": [-5, 16.91284, 6.49619, 10, 2, 5],
+					"uvNorth": [69, 98, 79, 100],
+					"uvEast": [53, 100, 58, 102],
+					"uvSouth": [79, 98, 89, 100],
+					"uvWest": [58, 100, 63, 102],
+					"uvUp": [100, 92, 90, 87],
+					"uvDown": [101, 18, 91, 23]
+				},
+				{
+					"coordinates": [-8, -6.08716, 4.49619, 16, 3, 6],
+					"uvNorth": [88, 92, 104, 95],
+					"uvEast": [95, 98, 101, 101],
+					"uvSouth": [56, 94, 72, 97],
+					"uvWest": [98, 95, 104, 98],
+					"uvUp": [100, 46, 84, 40],
+					"uvDown": [74, 85, 58, 91]
+				},
+				{
+					"coordinates": [6, -31, -4.5, 1, 2, 5],
+					"uvNorth": [0, 109, 1, 111],
+					"uvEast": [0, 107, 5, 109],
+					"uvSouth": [0, 109, 1, 111],
+					"uvWest": [0, 107, 5, 109],
+					"uvUp": [0, 102, 1, 107],
+					"uvDown": [0, 102, 1, 107]
+				},
+				{
+					"coordinates": [-7, -31, -4.5, 1, 2, 5],
+					"uvNorth": [0, 109, 1, 111],
+					"uvEast": [0, 107, 5, 109],
+					"uvSouth": [0, 109, 1, 111],
+					"uvWest": [0, 107, 5, 109],
+					"uvUp": [0, 102, 1, 107],
+					"uvDown": [0, 102, 1, 107]
+				}
+			],
+			"submodels": [
+				{
+					"id": "rectenna",
+					"invertAxis": "xy",
+					"translate": [16, -2, 6.5],
+					"rotate": [0, 0, 45],
+					"boxes": [
+						{
+							"coordinates": [-4.75, 18.16284, 9.99619, 10, 10, 1],
+							"uvNorth": [77, 0, 87, 10],
+							"uvEast": [23, 78, 24, 88],
+							"uvSouth": [77, 10, 87, 20],
+							"uvWest": [23, 95, 24, 105],
+							"uvUp": [74, 50, 64, 49],
+							"uvDown": [94, 46, 84, 47]
+						}
+					]
+				},
+				{
+					"id": "wings",
+					"invertAxis": "xy",
+					"translate": [-8, -10.70947, 2.81311],
+					"rotate": [-10, 0, 0],
+					"boxes": [
+						{
+							"coordinates": [-15, 10, 4, 13, 3, 13],
+							"uvNorth": [0, 95, 13, 98],
+							"uvEast": [72, 95, 85, 98],
+							"uvSouth": [85, 95, 98, 98],
+							"uvWest": [96, 52, 109, 55],
+							"uvUp": [65, 75, 52, 62],
+							"uvDown": [77, 0, 64, 13]
+						},
+						{
+							"coordinates": [18, 10, 4, 13, 3, 13],
+							"uvNorth": [96, 55, 109, 58],
+							"uvEast": [96, 58, 109, 61],
+							"uvSouth": [56, 97, 69, 100],
+							"uvWest": [0, 98, 13, 101],
+							"uvUp": [77, 26, 64, 13],
+							"uvDown": [77, 26, 64, 39]
+						}
+					]
+				},
+				{
+					"id": "cockpit",
+					"invertAxis": "xy",
+					"translate": [-8, -17.8786, -0.2806],
+					"rotate": [5, 0, 0],
+					"boxes": [
+						{
+							"coordinates": [2, -16.17431, -2.00761, 12, 50, 8],
+							"uvNorth": [0, 28, 12, 78],
+							"uvEast": [56, 0, 64, 50],
+							"uvSouth": [12, 28, 24, 78],
+							"uvWest": [24, 56, 32, 106],
+							"uvUp": [76, 85, 64, 77],
+							"uvDown": [88, 77, 76, 85]
+						}
+					]
+				}
+			]
+		},
+		{
+			"part": "tentacle1",
+			"id": "tentacle1",
+			"invertAxis": "xy",
+			"translate": [-3.7, -1, 5]
+		},
+		{
+			"part": "tentacle2",
+			"id": "tentacle2",
+			"invertAxis": "xy",
+			"translate": [1.3, -1, 5]
+		},
+		{
+			"part": "tentacle3",
+			"id": "tentacle3",
+			"invertAxis": "xy",
+			"translate": [6.3, -1, 5]
+		},
+		{
+			"part": "tentacle4",
+			"id": "tentacle4",
+			"invertAxis": "xy",
+			"translate": [-6.3, -1, 0]
+		},
+		{
+			"part": "tentacle5",
+			"id": "tentacle5",
+			"invertAxis": "xy",
+			"translate": [-1.3, -1, 0]
+		},
+		{
+			"part": "tentacle6",
+			"id": "tentacle6",
+			"invertAxis": "xy",
+			"translate": [3.7, -1, 0]
+		},
+		{
+			"part": "tentacle7",
+			"id": "tentacle7",
+			"invertAxis": "xy",
+			"translate": [-3.7, -1, -5]
+		},
+		{
+			"part": "tentacle8",
+			"id": "tentacle8",
+			"invertAxis": "xy",
+			"translate": [1.3, -1, -5]
+		},
+		{
+			"part": "tentacle9",
+			"id": "tentacle9",
+			"invertAxis": "xy",
+			"translate": [6.3, -1, -5]
+		}
+	]
+}

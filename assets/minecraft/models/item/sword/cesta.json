@@ -311,12 +311,12 @@
 			"from": [7.875, 11.875, 7.75],
 			"to": [8.125, 12.125, 8.25],
 			"faces": {
-				"north": {"uv": [7.75, 0, 8.25, 0.25], "texture": "#hardened_clay_stained_magenta"},
-				"east": {"uv": [7.5, 0, 8.5, 0.25], "texture": "#hardened_clay_stained_magenta"},
-				"south": {"uv": [7.75, 0, 8.25, 0.25], "texture": "#hardened_clay_stained_magenta"},
-				"west": {"uv": [7.5, 0, 8.5, 0.25], "texture": "#hardened_clay_stained_magenta"},
-				"up": {"uv": [7.75, 7.5, 8.25, 8.5], "texture": "#hardened_clay_stained_magenta"},
-				"down": {"uv": [8.25, 8.5, 7.75, 7.5], "texture": "#hardened_clay_stained_magenta"}
+				"north": {"uv": [7.95, 0.8, 8.45, 1.05], "texture": "#hardened_clay_stained_magenta"},
+				"east": {"uv": [7.7, 0.8, 8.7, 1.05], "texture": "#hardened_clay_stained_magenta"},
+				"south": {"uv": [7.95, 0.8, 8.45, 1.05], "texture": "#hardened_clay_stained_magenta"},
+				"west": {"uv": [7.7, 0.8, 8.7, 1.05], "texture": "#hardened_clay_stained_magenta"},
+				"up": {"uv": [7.95, 8.3, 8.45, 9.3], "texture": "#hardened_clay_stained_magenta"},
+				"down": {"uv": [8.45, 9.3, 7.95, 8.3], "texture": "#hardened_clay_stained_magenta"}
 			}
 		},
 		{
@@ -324,12 +324,12 @@
 			"from": [8.125, 11.875, 7.875],
 			"to": [8.25, 12.125, 8.125],
 			"faces": {
-				"north": {"uv": [7.5, 0, 7.75, 0.25], "texture": "#hardened_clay_stained_magenta"},
-				"east": {"uv": [7.75, 0, 8.25, 0.25], "texture": "#hardened_clay_stained_magenta"},
-				"south": {"uv": [8.25, 0, 8.5, 0.25], "texture": "#hardened_clay_stained_magenta"},
-				"west": {"uv": [7.75, 0, 8.25, 0.25], "texture": "#hardened_clay_stained_magenta"},
-				"up": {"uv": [8.25, 7.75, 8.5, 8.25], "texture": "#hardened_clay_stained_magenta"},
-				"down": {"uv": [7.75, 8.25, 7.5, 7.75], "texture": "#hardened_clay_stained_magenta"}
+				"north": {"uv": [7.7, 0.8, 7.95, 1.05], "texture": "#hardened_clay_stained_magenta"},
+				"east": {"uv": [7.95, 0.8, 8.45, 1.05], "texture": "#hardened_clay_stained_magenta"},
+				"south": {"uv": [8.45, 0.8, 8.7, 1.05], "texture": "#hardened_clay_stained_magenta"},
+				"west": {"uv": [7.95, 0.8, 8.45, 1.05], "texture": "#hardened_clay_stained_magenta"},
+				"up": {"uv": [8.45, 8.55, 8.7, 9.05], "texture": "#hardened_clay_stained_magenta"},
+				"down": {"uv": [7.95, 9.05, 7.7, 8.55], "texture": "#hardened_clay_stained_magenta"}
 			}
 		},
 		{
@@ -337,12 +337,12 @@
 			"from": [7.75, 11.875, 7.875],
 			"to": [7.875, 12.125, 8.125],
 			"faces": {
-				"north": {"uv": [8.25, 0, 8.5, 0.25], "texture": "#hardened_clay_stained_magenta"},
-				"east": {"uv": [7.75, 0, 8.25, 0.25], "texture": "#hardened_clay_stained_magenta"},
-				"south": {"uv": [7.5, 0, 7.75, 0.25], "texture": "#hardened_clay_stained_magenta"},
-				"west": {"uv": [7.75, 0, 8.25, 0.25], "texture": "#hardened_clay_stained_magenta"},
-				"up": {"uv": [7.5, 7.75, 7.75, 8.25], "texture": "#hardened_clay_stained_magenta"},
-				"down": {"uv": [8.5, 8.25, 8.25, 7.75], "texture": "#hardened_clay_stained_magenta"}
+				"north": {"uv": [8.45, 0.8, 8.7, 1.05], "texture": "#hardened_clay_stained_magenta"},
+				"east": {"uv": [7.95, 0.8, 8.45, 1.05], "texture": "#hardened_clay_stained_magenta"},
+				"south": {"uv": [7.7, 0.8, 7.95, 1.05], "texture": "#hardened_clay_stained_magenta"},
+				"west": {"uv": [7.95, 0.8, 8.45, 1.05], "texture": "#hardened_clay_stained_magenta"},
+				"up": {"uv": [7.7, 8.55, 7.95, 9.05], "texture": "#hardened_clay_stained_magenta"},
+				"down": {"uv": [8.7, 9.05, 8.45, 8.55], "texture": "#hardened_clay_stained_magenta"}
 			}
 		},
 		{
@@ -389,12 +389,12 @@
 			"from": [7.875, 4.125, 7.625],
 			"to": [8.125, 4.5, 8.375],
 			"faces": {
-				"north": {"uv": [7.75, 15, 8.25, 15.75], "texture": "#hardened_clay_stained_magenta"},
-				"east": {"uv": [7.25, 15, 8.75, 15.75], "texture": "#hardened_clay_stained_magenta"},
-				"south": {"uv": [7.75, 15, 8.25, 15.75], "texture": "#hardened_clay_stained_magenta"},
-				"west": {"uv": [7.25, 15, 8.75, 15.75], "texture": "#hardened_clay_stained_magenta"},
-				"up": {"uv": [7.75, 7.25, 8.25, 8.75], "texture": "#hardened_clay_stained_magenta"},
-				"down": {"uv": [8.25, 8.75, 7.75, 7.25], "texture": "#hardened_clay_stained_magenta"}
+				"north": {"uv": [7.75, 14.1, 8.25, 14.85], "texture": "#hardened_clay_stained_magenta"},
+				"east": {"uv": [7.25, 14.1, 8.75, 14.85], "texture": "#hardened_clay_stained_magenta"},
+				"south": {"uv": [7.75, 14.1, 8.25, 14.85], "texture": "#hardened_clay_stained_magenta"},
+				"west": {"uv": [7.25, 14.1, 8.75, 14.85], "texture": "#hardened_clay_stained_magenta"},
+				"up": {"uv": [7.75, 6.35, 8.25, 7.85], "texture": "#hardened_clay_stained_magenta"},
+				"down": {"uv": [8.25, 7.85, 7.75, 6.35], "texture": "#hardened_clay_stained_magenta"}
 			}
 		},
 		{
@@ -402,12 +402,12 @@
 			"from": [8.125, 4.125, 7.875],
 			"to": [8.375, 4.5, 8.125],
 			"faces": {
-				"north": {"uv": [7.25, 15, 7.75, 15.75], "texture": "#hardened_clay_stained_magenta"},
-				"east": {"uv": [7.75, 15, 8.25, 15.75], "texture": "#hardened_clay_stained_magenta"},
-				"south": {"uv": [8.25, 15, 8.75, 15.75], "texture": "#hardened_clay_stained_magenta"},
-				"west": {"uv": [7.75, 15, 8.25, 15.75], "texture": "#hardened_clay_stained_magenta"},
-				"up": {"uv": [8.25, 7.75, 8.75, 8.25], "texture": "#hardened_clay_stained_magenta"},
-				"down": {"uv": [7.75, 8.25, 7.25, 7.75], "texture": "#hardened_clay_stained_magenta"}
+				"north": {"uv": [7.25, 14.1, 7.75, 14.85], "texture": "#hardened_clay_stained_magenta"},
+				"east": {"uv": [7.75, 14.1, 8.25, 14.85], "texture": "#hardened_clay_stained_magenta"},
+				"south": {"uv": [8.25, 14.1, 8.75, 14.85], "texture": "#hardened_clay_stained_magenta"},
+				"west": {"uv": [7.75, 14.1, 8.25, 14.85], "texture": "#hardened_clay_stained_magenta"},
+				"up": {"uv": [8.25, 6.85, 8.75, 7.35], "texture": "#hardened_clay_stained_magenta"},
+				"down": {"uv": [7.75, 7.35, 7.25, 6.85], "texture": "#hardened_clay_stained_magenta"}
 			}
 		},
 		{
@@ -415,12 +415,12 @@
 			"from": [7.625, 4.125, 7.875],
 			"to": [7.875, 4.5, 8.125],
 			"faces": {
-				"north": {"uv": [8.25, 15, 8.75, 15.75], "texture": "#hardened_clay_stained_magenta"},
-				"east": {"uv": [7.75, 15, 8.25, 15.75], "texture": "#hardened_clay_stained_magenta"},
-				"south": {"uv": [7.25, 15, 7.75, 15.75], "texture": "#hardened_clay_stained_magenta"},
-				"west": {"uv": [7.75, 15, 8.25, 15.75], "texture": "#hardened_clay_stained_magenta"},
-				"up": {"uv": [7.25, 7.75, 7.75, 8.25], "texture": "#hardened_clay_stained_magenta"},
-				"down": {"uv": [8.75, 8.25, 8.25, 7.75], "texture": "#hardened_clay_stained_magenta"}
+				"north": {"uv": [8.25, 14.1, 8.75, 14.85], "texture": "#hardened_clay_stained_magenta"},
+				"east": {"uv": [7.75, 14.1, 8.25, 14.85], "texture": "#hardened_clay_stained_magenta"},
+				"south": {"uv": [7.25, 14.1, 7.75, 14.85], "texture": "#hardened_clay_stained_magenta"},
+				"west": {"uv": [7.75, 14.1, 8.25, 14.85], "texture": "#hardened_clay_stained_magenta"},
+				"up": {"uv": [7.25, 6.85, 7.75, 7.35], "texture": "#hardened_clay_stained_magenta"},
+				"down": {"uv": [8.75, 7.35, 8.25, 6.85], "texture": "#hardened_clay_stained_magenta"}
 			}
 		},
 		{
@@ -428,12 +428,12 @@
 			"from": [8.125, 4.125, 8.125],
 			"to": [8.25, 4.5, 8.25],
 			"faces": {
-				"north": {"uv": [7.5, 15, 7.75, 15.75], "texture": "#hardened_clay_stained_magenta"},
-				"east": {"uv": [7.5, 15, 7.75, 15.75], "texture": "#hardened_clay_stained_magenta"},
-				"south": {"uv": [8.25, 15, 8.5, 15.75], "texture": "#hardened_clay_stained_magenta"},
-				"west": {"uv": [8.25, 15, 8.5, 15.75], "texture": "#hardened_clay_stained_magenta"},
-				"up": {"uv": [8.25, 8.25, 8.5, 8.5], "texture": "#hardened_clay_stained_magenta"},
-				"down": {"uv": [7.75, 8.5, 7.5, 8.25], "texture": "#hardened_clay_stained_magenta"}
+				"north": {"uv": [7.5, 14.1, 7.75, 14.85], "texture": "#hardened_clay_stained_magenta"},
+				"east": {"uv": [7.5, 14.1, 7.75, 14.85], "texture": "#hardened_clay_stained_magenta"},
+				"south": {"uv": [8.25, 14.1, 8.5, 14.85], "texture": "#hardened_clay_stained_magenta"},
+				"west": {"uv": [8.25, 14.1, 8.5, 14.85], "texture": "#hardened_clay_stained_magenta"},
+				"up": {"uv": [8.25, 7.35, 8.5, 7.6], "texture": "#hardened_clay_stained_magenta"},
+				"down": {"uv": [7.75, 7.6, 7.5, 7.35], "texture": "#hardened_clay_stained_magenta"}
 			}
 		},
 		{
@@ -441,12 +441,12 @@
 			"from": [8.125, 4.125, 7.75],
 			"to": [8.25, 4.5, 7.875],
 			"faces": {
-				"north": {"uv": [7.5, 15, 7.75, 15.75], "texture": "#hardened_clay_stained_magenta"},
-				"east": {"uv": [8.25, 15, 8.5, 15.75], "texture": "#hardened_clay_stained_magenta"},
-				"south": {"uv": [8.25, 15, 8.5, 15.75], "texture": "#hardened_clay_stained_magenta"},
-				"west": {"uv": [7.5, 15, 7.75, 15.75], "texture": "#hardened_clay_stained_magenta"},
-				"up": {"uv": [8.25, 7.5, 8.5, 7.75], "texture": "#hardened_clay_stained_magenta"},
-				"down": {"uv": [7.75, 7.75, 7.5, 7.5], "texture": "#hardened_clay_stained_magenta"}
+				"north": {"uv": [7.5, 14.1, 7.75, 14.85], "texture": "#hardened_clay_stained_magenta"},
+				"east": {"uv": [8.25, 14.1, 8.5, 14.85], "texture": "#hardened_clay_stained_magenta"},
+				"south": {"uv": [8.25, 14.1, 8.5, 14.85], "texture": "#hardened_clay_stained_magenta"},
+				"west": {"uv": [7.5, 14.1, 7.75, 14.85], "texture": "#hardened_clay_stained_magenta"},
+				"up": {"uv": [8.25, 6.6, 8.5, 6.85], "texture": "#hardened_clay_stained_magenta"},
+				"down": {"uv": [7.75, 6.85, 7.5, 6.6], "texture": "#hardened_clay_stained_magenta"}
 			}
 		},
 		{
@@ -454,12 +454,12 @@
 			"from": [7.75, 4.125, 8.125],
 			"to": [7.875, 4.5, 8.25],
 			"faces": {
-				"north": {"uv": [8.25, 15, 8.5, 15.75], "texture": "#hardened_clay_stained_magenta"},
-				"east": {"uv": [7.5, 15, 7.75, 15.75], "texture": "#hardened_clay_stained_magenta"},
-				"south": {"uv": [7.5, 15, 7.75, 15.75], "texture": "#hardened_clay_stained_magenta"},
-				"west": {"uv": [8.25, 15, 8.5, 15.75], "texture": "#hardened_clay_stained_magenta"},
-				"up": {"uv": [7.5, 8.25, 7.75, 8.5], "texture": "#hardened_clay_stained_magenta"},
-				"down": {"uv": [8.5, 8.5, 8.25, 8.25], "texture": "#hardened_clay_stained_magenta"}
+				"north": {"uv": [8.25, 14.1, 8.5, 14.85], "texture": "#hardened_clay_stained_magenta"},
+				"east": {"uv": [7.5, 14.1, 7.75, 14.85], "texture": "#hardened_clay_stained_magenta"},
+				"south": {"uv": [7.5, 14.1, 7.75, 14.85], "texture": "#hardened_clay_stained_magenta"},
+				"west": {"uv": [8.25, 14.1, 8.5, 14.85], "texture": "#hardened_clay_stained_magenta"},
+				"up": {"uv": [7.5, 7.35, 7.75, 7.6], "texture": "#hardened_clay_stained_magenta"},
+				"down": {"uv": [8.5, 7.6, 8.25, 7.35], "texture": "#hardened_clay_stained_magenta"}
 			}
 		},
 		{
@@ -467,12 +467,12 @@
 			"from": [7.75, 4.125, 7.75],
 			"to": [7.875, 4.5, 7.875],
 			"faces": {
-				"north": {"uv": [8.25, 15, 8.5, 15.75], "texture": "#hardened_clay_stained_magenta"},
-				"east": {"uv": [8.25, 15, 8.5, 15.75], "texture": "#hardened_clay_stained_magenta"},
-				"south": {"uv": [7.5, 15, 7.75, 15.75], "texture": "#hardened_clay_stained_magenta"},
-				"west": {"uv": [7.5, 15, 7.75, 15.75], "texture": "#hardened_clay_stained_magenta"},
-				"up": {"uv": [7.5, 7.5, 7.75, 7.75], "texture": "#hardened_clay_stained_magenta"},
-				"down": {"uv": [8.5, 7.75, 8.25, 7.5], "texture": "#hardened_clay_stained_magenta"}
+				"north": {"uv": [8.25, 14.1, 8.5, 14.85], "texture": "#hardened_clay_stained_magenta"},
+				"east": {"uv": [8.25, 14.1, 8.5, 14.85], "texture": "#hardened_clay_stained_magenta"},
+				"south": {"uv": [7.5, 14.1, 7.75, 14.85], "texture": "#hardened_clay_stained_magenta"},
+				"west": {"uv": [7.5, 14.1, 7.75, 14.85], "texture": "#hardened_clay_stained_magenta"},
+				"up": {"uv": [7.5, 6.6, 7.75, 6.85], "texture": "#hardened_clay_stained_magenta"},
+				"down": {"uv": [8.5, 6.85, 8.25, 6.6], "texture": "#hardened_clay_stained_magenta"}
 			}
 		},
 		{
@@ -480,12 +480,12 @@
 			"from": [7.875, 11.5, 7.625],
 			"to": [8.125, 11.875, 8.375],
 			"faces": {
-				"north": {"uv": [7.75, 0.25, 8.25, 1], "texture": "#hardened_clay_stained_magenta"},
-				"east": {"uv": [7.25, 0.25, 8.75, 1], "texture": "#hardened_clay_stained_magenta"},
-				"south": {"uv": [7.75, 0.25, 8.25, 1], "texture": "#hardened_clay_stained_magenta"},
-				"west": {"uv": [7.25, 0.25, 8.75, 1], "texture": "#hardened_clay_stained_magenta"},
-				"up": {"uv": [7.75, 7.25, 8.25, 8.75], "texture": "#hardened_clay_stained_magenta"},
-				"down": {"uv": [8.25, 8.75, 7.75, 7.25], "texture": "#hardened_clay_stained_magenta"}
+				"north": {"uv": [7.95, 1.05, 8.45, 1.8], "texture": "#hardened_clay_stained_magenta"},
+				"east": {"uv": [7.45, 1.05, 8.95, 1.8], "texture": "#hardened_clay_stained_magenta"},
+				"south": {"uv": [7.95, 1.05, 8.45, 1.8], "texture": "#hardened_clay_stained_magenta"},
+				"west": {"uv": [7.45, 1.05, 8.95, 1.8], "texture": "#hardened_clay_stained_magenta"},
+				"up": {"uv": [7.95, 8.05, 8.45, 9.55], "texture": "#hardened_clay_stained_magenta"},
+				"down": {"uv": [8.45, 9.55, 7.95, 8.05], "texture": "#hardened_clay_stained_magenta"}
 			}
 		},
 		{
@@ -493,12 +493,12 @@
 			"from": [8.125, 11.5, 7.875],
 			"to": [8.375, 11.875, 8.125],
 			"faces": {
-				"north": {"uv": [7.25, 0.25, 7.75, 1], "texture": "#hardened_clay_stained_magenta"},
-				"east": {"uv": [7.75, 0.25, 8.25, 1], "texture": "#hardened_clay_stained_magenta"},
-				"south": {"uv": [8.25, 0.25, 8.75, 1], "texture": "#hardened_clay_stained_magenta"},
-				"west": {"uv": [7.75, 0.25, 8.25, 1], "texture": "#hardened_clay_stained_magenta"},
-				"up": {"uv": [8.25, 7.75, 8.75, 8.25], "texture": "#hardened_clay_stained_magenta"},
-				"down": {"uv": [7.75, 8.25, 7.25, 7.75], "texture": "#hardened_clay_stained_magenta"}
+				"north": {"uv": [7.45, 1.05, 7.95, 1.8], "texture": "#hardened_clay_stained_magenta"},
+				"east": {"uv": [7.95, 1.05, 8.45, 1.8], "texture": "#hardened_clay_stained_magenta"},
+				"south": {"uv": [8.45, 1.05, 8.95, 1.8], "texture": "#hardened_clay_stained_magenta"},
+				"west": {"uv": [7.95, 1.05, 8.45, 1.8], "texture": "#hardened_clay_stained_magenta"},
+				"up": {"uv": [8.45, 8.55, 8.95, 9.05], "texture": "#hardened_clay_stained_magenta"},
+				"down": {"uv": [7.95, 9.05, 7.45, 8.55], "texture": "#hardened_clay_stained_magenta"}
 			}
 		},
 		{
@@ -506,12 +506,12 @@
 			"from": [7.625, 11.5, 7.875],
 			"to": [7.875, 11.875, 8.125],
 			"faces": {
-				"north": {"uv": [8.25, 0.25, 8.75, 1], "texture": "#hardened_clay_stained_magenta"},
-				"east": {"uv": [7.75, 0.25, 8.25, 1], "texture": "#hardened_clay_stained_magenta"},
-				"south": {"uv": [7.25, 0.25, 7.75, 1], "texture": "#hardened_clay_stained_magenta"},
-				"west": {"uv": [7.75, 0.25, 8.25, 1], "texture": "#hardened_clay_stained_magenta"},
-				"up": {"uv": [7.25, 7.75, 7.75, 8.25], "texture": "#hardened_clay_stained_magenta"},
-				"down": {"uv": [8.75, 8.25, 8.25, 7.75], "texture": "#hardened_clay_stained_magenta"}
+				"north": {"uv": [8.45, 1.05, 8.95, 1.8], "texture": "#hardened_clay_stained_magenta"},
+				"east": {"uv": [7.95, 1.05, 8.45, 1.8], "texture": "#hardened_clay_stained_magenta"},
+				"south": {"uv": [7.45, 1.05, 7.95, 1.8], "texture": "#hardened_clay_stained_magenta"},
+				"west": {"uv": [7.95, 1.05, 8.45, 1.8], "texture": "#hardened_clay_stained_magenta"},
+				"up": {"uv": [7.45, 8.55, 7.95, 9.05], "texture": "#hardened_clay_stained_magenta"},
+				"down": {"uv": [8.95, 9.05, 8.45, 8.55], "texture": "#hardened_clay_stained_magenta"}
 			}
 		},
 		{
@@ -519,12 +519,12 @@
 			"from": [8.125, 11.5, 8.125],
 			"to": [8.25, 11.875, 8.25],
 			"faces": {
-				"north": {"uv": [7.5, 0.25, 7.75, 1], "texture": "#hardened_clay_stained_magenta"},
-				"east": {"uv": [7.5, 0.25, 7.75, 1], "texture": "#hardened_clay_stained_magenta"},
-				"south": {"uv": [8.25, 0.25, 8.5, 1], "texture": "#hardened_clay_stained_magenta"},
-				"west": {"uv": [8.25, 0.25, 8.5, 1], "texture": "#hardened_clay_stained_magenta"},
-				"up": {"uv": [8.25, 8.25, 8.5, 8.5], "texture": "#hardened_clay_stained_magenta"},
-				"down": {"uv": [7.75, 8.5, 7.5, 8.25], "texture": "#hardened_clay_stained_magenta"}
+				"north": {"uv": [7.7, 1.05, 7.95, 1.8], "texture": "#hardened_clay_stained_magenta"},
+				"east": {"uv": [7.7, 1.05, 7.95, 1.8], "texture": "#hardened_clay_stained_magenta"},
+				"south": {"uv": [8.45, 1.05, 8.7, 1.8], "texture": "#hardened_clay_stained_magenta"},
+				"west": {"uv": [8.45, 1.05, 8.7, 1.8], "texture": "#hardened_clay_stained_magenta"},
+				"up": {"uv": [8.45, 9.05, 8.7, 9.3], "texture": "#hardened_clay_stained_magenta"},
+				"down": {"uv": [7.95, 9.3, 7.7, 9.05], "texture": "#hardened_clay_stained_magenta"}
 			}
 		},
 		{
@@ -532,12 +532,12 @@
 			"from": [8.125, 11.5, 7.75],
 			"to": [8.25, 11.875, 7.875],
 			"faces": {
-				"north": {"uv": [7.5, 0.25, 7.75, 1], "texture": "#hardened_clay_stained_magenta"},
-				"east": {"uv": [8.25, 0.25, 8.5, 1], "texture": "#hardened_clay_stained_magenta"},
-				"south": {"uv": [8.25, 0.25, 8.5, 1], "texture": "#hardened_clay_stained_magenta"},
-				"west": {"uv": [7.5, 0.25, 7.75, 1], "texture": "#hardened_clay_stained_magenta"},
-				"up": {"uv": [8.25, 7.5, 8.5, 7.75], "texture": "#hardened_clay_stained_magenta"},
-				"down": {"uv": [7.75, 7.75, 7.5, 7.5], "texture": "#hardened_clay_stained_magenta"}
+				"north": {"uv": [7.7, 1.05, 7.95, 1.8], "texture": "#hardened_clay_stained_magenta"},
+				"east": {"uv": [8.45, 1.05, 8.7, 1.8], "texture": "#hardened_clay_stained_magenta"},
+				"south": {"uv": [8.45, 1.05, 8.7, 1.8], "texture": "#hardened_clay_stained_magenta"},
+				"west": {"uv": [7.7, 1.05, 7.95, 1.8], "texture": "#hardened_clay_stained_magenta"},
+				"up": {"uv": [8.45, 8.3, 8.7, 8.55], "texture": "#hardened_clay_stained_magenta"},
+				"down": {"uv": [7.95, 8.55, 7.7, 8.3], "texture": "#hardened_clay_stained_magenta"}
 			}
 		},
 		{
@@ -545,12 +545,12 @@
 			"from": [7.75, 11.5, 8.125],
 			"to": [7.875, 11.875, 8.25],
 			"faces": {
-				"north": {"uv": [8.25, 0.25, 8.5, 1], "texture": "#hardened_clay_stained_magenta"},
-				"east": {"uv": [7.5, 0.25, 7.75, 1], "texture": "#hardened_clay_stained_magenta"},
-				"south": {"uv": [7.5, 0.25, 7.75, 1], "texture": "#hardened_clay_stained_magenta"},
-				"west": {"uv": [8.25, 0.25, 8.5, 1], "texture": "#hardened_clay_stained_magenta"},
-				"up": {"uv": [7.5, 8.25, 7.75, 8.5], "texture": "#hardened_clay_stained_magenta"},
-				"down": {"uv": [8.5, 8.5, 8.25, 8.25], "texture": "#hardened_clay_stained_magenta"}
+				"north": {"uv": [8.45, 1.05, 8.7, 1.8], "texture": "#hardened_clay_stained_magenta"},
+				"east": {"uv": [7.7, 1.05, 7.95, 1.8], "texture": "#hardened_clay_stained_magenta"},
+				"south": {"uv": [7.7, 1.05, 7.95, 1.8], "texture": "#hardened_clay_stained_magenta"},
+				"west": {"uv": [8.45, 1.05, 8.7, 1.8], "texture": "#hardened_clay_stained_magenta"},
+				"up": {"uv": [7.7, 9.05, 7.95, 9.3], "texture": "#hardened_clay_stained_magenta"},
+				"down": {"uv": [8.7, 9.3, 8.45, 9.05], "texture": "#hardened_clay_stained_magenta"}
 			}
 		},
 		{
@@ -558,12 +558,12 @@
 			"from": [7.75, 11.5, 7.75],
 			"to": [7.875, 11.875, 7.875],
 			"faces": {
-				"north": {"uv": [8.25, 0.25, 8.5, 1], "texture": "#hardened_clay_stained_magenta"},
-				"east": {"uv": [8.25, 0.25, 8.5, 1], "texture": "#hardened_clay_stained_magenta"},
-				"south": {"uv": [7.5, 0.25, 7.75, 1], "texture": "#hardened_clay_stained_magenta"},
-				"west": {"uv": [7.5, 0.25, 7.75, 1], "texture": "#hardened_clay_stained_magenta"},
-				"up": {"uv": [7.5, 7.5, 7.75, 7.75], "texture": "#hardened_clay_stained_magenta"},
-				"down": {"uv": [8.5, 7.75, 8.25, 7.5], "texture": "#hardened_clay_stained_magenta"}
+				"north": {"uv": [8.45, 1.05, 8.7, 1.8], "texture": "#hardened_clay_stained_magenta"},
+				"east": {"uv": [8.45, 1.05, 8.7, 1.8], "texture": "#hardened_clay_stained_magenta"},
+				"south": {"uv": [7.7, 1.05, 7.95, 1.8], "texture": "#hardened_clay_stained_magenta"},
+				"west": {"uv": [7.7, 1.05, 7.95, 1.8], "texture": "#hardened_clay_stained_magenta"},
+				"up": {"uv": [7.7, 8.3, 7.95, 8.55], "texture": "#hardened_clay_stained_magenta"},
+				"down": {"uv": [8.7, 8.55, 8.45, 8.3], "texture": "#hardened_clay_stained_magenta"}
 			}
 		},
 		{
@@ -610,12 +610,12 @@
 			"from": [7.875, 3.875, 7.75],
 			"to": [8.125, 4.125, 8.25],
 			"faces": {
-				"north": {"uv": [7.75, 15.75, 8.25, 16], "texture": "#hardened_clay_stained_magenta"},
-				"east": {"uv": [7.5, 15.75, 8.5, 16], "texture": "#hardened_clay_stained_magenta"},
-				"south": {"uv": [7.75, 15.75, 8.25, 16], "texture": "#hardened_clay_stained_magenta"},
-				"west": {"uv": [7.5, 15.75, 8.5, 16], "texture": "#hardened_clay_stained_magenta"},
-				"up": {"uv": [7.75, 7.5, 8.25, 8.5], "texture": "#hardened_clay_stained_magenta"},
-				"down": {"uv": [8.25, 8.5, 7.75, 7.5], "texture": "#hardened_clay_stained_magenta"}
+				"north": {"uv": [7.75, 14.85, 8.25, 15.1], "texture": "#hardened_clay_stained_magenta"},
+				"east": {"uv": [7.5, 14.85, 8.5, 15.1], "texture": "#hardened_clay_stained_magenta"},
+				"south": {"uv": [7.75, 14.85, 8.25, 15.1], "texture": "#hardened_clay_stained_magenta"},
+				"west": {"uv": [7.5, 14.85, 8.5, 15.1], "texture": "#hardened_clay_stained_magenta"},
+				"up": {"uv": [7.75, 6.6, 8.25, 7.6], "texture": "#hardened_clay_stained_magenta"},
+				"down": {"uv": [8.25, 7.6, 7.75, 6.6], "texture": "#hardened_clay_stained_magenta"}
 			}
 		},
 		{
@@ -623,12 +623,12 @@
 			"from": [8.125, 3.875, 7.875],
 			"to": [8.25, 4.125, 8.125],
 			"faces": {
-				"north": {"uv": [7.5, 15.75, 7.75, 16], "texture": "#hardened_clay_stained_magenta"},
-				"east": {"uv": [7.75, 15.75, 8.25, 16], "texture": "#hardened_clay_stained_magenta"},
-				"south": {"uv": [8.25, 15.75, 8.5, 16], "texture": "#hardened_clay_stained_magenta"},
-				"west": {"uv": [7.75, 15.75, 8.25, 16], "texture": "#hardened_clay_stained_magenta"},
-				"up": {"uv": [8.25, 7.75, 8.5, 8.25], "texture": "#hardened_clay_stained_magenta"},
-				"down": {"uv": [7.75, 8.25, 7.5, 7.75], "texture": "#hardened_clay_stained_magenta"}
+				"north": {"uv": [7.5, 14.85, 7.75, 15.1], "texture": "#hardened_clay_stained_magenta"},
+				"east": {"uv": [7.75, 14.85, 8.25, 15.1], "texture": "#hardened_clay_stained_magenta"},
+				"south": {"uv": [8.25, 14.85, 8.5, 15.1], "texture": "#hardened_clay_stained_magenta"},
+				"west": {"uv": [7.75, 14.85, 8.25, 15.1], "texture": "#hardened_clay_stained_magenta"},
+				"up": {"uv": [8.25, 6.85, 8.5, 7.35], "texture": "#hardened_clay_stained_magenta"},
+				"down": {"uv": [7.75, 7.35, 7.5, 6.85], "texture": "#hardened_clay_stained_magenta"}
 			}
 		},
 		{
@@ -636,12 +636,12 @@
 			"from": [7.75, 3.875, 7.875],
 			"to": [7.875, 4.125, 8.125],
 			"faces": {
-				"north": {"uv": [8.25, 15.75, 8.5, 16], "texture": "#hardened_clay_stained_magenta"},
-				"east": {"uv": [7.75, 15.75, 8.25, 16], "texture": "#hardened_clay_stained_magenta"},
-				"south": {"uv": [7.5, 15.75, 7.75, 16], "texture": "#hardened_clay_stained_magenta"},
-				"west": {"uv": [7.75, 15.75, 8.25, 16], "texture": "#hardened_clay_stained_magenta"},
-				"up": {"uv": [7.5, 7.75, 7.75, 8.25], "texture": "#hardened_clay_stained_magenta"},
-				"down": {"uv": [8.5, 8.25, 8.25, 7.75], "texture": "#hardened_clay_stained_magenta"}
+				"north": {"uv": [8.25, 14.85, 8.5, 15.1], "texture": "#hardened_clay_stained_magenta"},
+				"east": {"uv": [7.75, 14.85, 8.25, 15.1], "texture": "#hardened_clay_stained_magenta"},
+				"south": {"uv": [7.5, 14.85, 7.75, 15.1], "texture": "#hardened_clay_stained_magenta"},
+				"west": {"uv": [7.75, 14.85, 8.25, 15.1], "texture": "#hardened_clay_stained_magenta"},
+				"up": {"uv": [7.5, 6.85, 7.75, 7.35], "texture": "#hardened_clay_stained_magenta"},
+				"down": {"uv": [8.5, 7.35, 8.25, 6.85], "texture": "#hardened_clay_stained_magenta"}
 			}
 		},
 		{
@@ -649,12 +649,12 @@
 			"from": [7.875, 12.125, 7.625],
 			"to": [8.125, 14.125, 8.375],
 			"faces": {
-				"north": {"uv": [7.75, 0, 8.25, 0], "texture": "#hardened_clay_stained_magenta"},
-				"east": {"uv": [7.25, 0, 8.75, 0], "texture": "#hardened_clay_stained_magenta"},
-				"south": {"uv": [7.75, 0, 8.25, 0], "texture": "#hardened_clay_stained_magenta"},
-				"west": {"uv": [7.25, 0, 8.75, 0], "texture": "#hardened_clay_stained_magenta"},
-				"up": {"uv": [7.75, 7.25, 8.25, 8.75], "texture": "#hardened_clay_stained_magenta"},
-				"down": {"uv": [8.25, 8.75, 7.75, 7.25], "texture": "#hardened_clay_stained_magenta"}
+				"north": {"uv": [7.85, 1.5, 8.35, 1.5], "texture": "#hardened_clay_stained_magenta"},
+				"east": {"uv": [7.35, 1.5, 8.85, 1.5], "texture": "#hardened_clay_stained_magenta"},
+				"south": {"uv": [7.85, 1.5, 8.35, 1.5], "texture": "#hardened_clay_stained_magenta"},
+				"west": {"uv": [7.45, 0.8, 8.95, 0.8], "texture": "#hardened_clay_stained_magenta"},
+				"up": {"uv": [7.85, 8.75, 8.35, 10.25], "texture": "#hardened_clay_stained_magenta"},
+				"down": {"uv": [8.35, 10.25, 7.85, 8.75], "texture": "#hardened_clay_stained_magenta"}
 			}
 		},
 		{
@@ -662,12 +662,12 @@
 			"from": [8.125, 12.125, 7.875],
 			"to": [8.375, 14.125, 8.125],
 			"faces": {
-				"north": {"uv": [7.25, 0, 7.75, 0], "texture": "#hardened_clay_stained_magenta"},
-				"east": {"uv": [7.75, 0, 8.25, 0], "texture": "#hardened_clay_stained_magenta"},
-				"south": {"uv": [8.25, 0, 8.75, 0], "texture": "#hardened_clay_stained_magenta"},
-				"west": {"uv": [7.75, 0, 8.25, 0], "texture": "#hardened_clay_stained_magenta"},
-				"up": {"uv": [8.25, 7.75, 8.75, 8.25], "texture": "#hardened_clay_stained_magenta"},
-				"down": {"uv": [7.75, 8.25, 7.25, 7.75], "texture": "#hardened_clay_stained_magenta"}
+				"north": {"uv": [7.35, 1.5, 7.85, 1.5], "texture": "#hardened_clay_stained_magenta"},
+				"east": {"uv": [7.85, 1.5, 8.35, 1.5], "texture": "#hardened_clay_stained_magenta"},
+				"south": {"uv": [8.35, 1.5, 8.85, 1.5], "texture": "#hardened_clay_stained_magenta"},
+				"west": {"uv": [7.95, 0.8, 8.45, 0.8], "texture": "#hardened_clay_stained_magenta"},
+				"up": {"uv": [8.35, 9.25, 8.85, 9.75], "texture": "#hardened_clay_stained_magenta"},
+				"down": {"uv": [7.85, 9.75, 7.35, 9.25], "texture": "#hardened_clay_stained_magenta"}
 			}
 		},
 		{
@@ -675,12 +675,12 @@
 			"from": [7.625, 12.125, 7.875],
 			"to": [7.875, 14.125, 8.125],
 			"faces": {
-				"north": {"uv": [8.25, 0, 8.75, 0], "texture": "#hardened_clay_stained_magenta"},
-				"east": {"uv": [7.75, 0, 8.25, 0], "texture": "#hardened_clay_stained_magenta"},
-				"south": {"uv": [7.25, 0, 7.75, 0], "texture": "#hardened_clay_stained_magenta"},
-				"west": {"uv": [7.75, 0, 8.25, 0], "texture": "#hardened_clay_stained_magenta"},
-				"up": {"uv": [7.25, 7.75, 7.75, 8.25], "texture": "#hardened_clay_stained_magenta"},
-				"down": {"uv": [8.75, 8.25, 8.25, 7.75], "texture": "#hardened_clay_stained_magenta"}
+				"north": {"uv": [8.35, 1.5, 8.85, 1.5], "texture": "#hardened_clay_stained_magenta"},
+				"east": {"uv": [7.85, 1.5, 8.35, 1.5], "texture": "#hardened_clay_stained_magenta"},
+				"south": {"uv": [7.35, 1.5, 7.85, 1.5], "texture": "#hardened_clay_stained_magenta"},
+				"west": {"uv": [7.95, 0.8, 8.45, 0.8], "texture": "#hardened_clay_stained_magenta"},
+				"up": {"uv": [7.35, 9.25, 7.85, 9.75], "texture": "#hardened_clay_stained_magenta"},
+				"down": {"uv": [8.85, 9.75, 8.35, 9.25], "texture": "#hardened_clay_stained_magenta"}
 			}
 		},
 		{
@@ -688,12 +688,12 @@
 			"from": [8.125, 12.125, 8.125],
 			"to": [8.25, 14.125, 8.25],
 			"faces": {
-				"north": {"uv": [7.5, 0, 7.75, 0], "texture": "#hardened_clay_stained_magenta"},
-				"east": {"uv": [7.5, 0, 7.75, 0], "texture": "#hardened_clay_stained_magenta"},
-				"south": {"uv": [8.25, 0, 8.5, 0], "texture": "#hardened_clay_stained_magenta"},
-				"west": {"uv": [8.25, 0, 8.5, 0], "texture": "#hardened_clay_stained_magenta"},
-				"up": {"uv": [8.25, 8.25, 8.5, 8.5], "texture": "#hardened_clay_stained_magenta"},
-				"down": {"uv": [7.75, 8.5, 7.5, 8.25], "texture": "#hardened_clay_stained_magenta"}
+				"north": {"uv": [7.6, 1.5, 7.85, 1.5], "texture": "#hardened_clay_stained_magenta"},
+				"east": {"uv": [7.6, 1.5, 7.85, 1.5], "texture": "#hardened_clay_stained_magenta"},
+				"south": {"uv": [8.35, 1.5, 8.6, 1.5], "texture": "#hardened_clay_stained_magenta"},
+				"west": {"uv": [8.45, 0.8, 8.7, 0.8], "texture": "#hardened_clay_stained_magenta"},
+				"up": {"uv": [8.35, 9.75, 8.6, 10], "texture": "#hardened_clay_stained_magenta"},
+				"down": {"uv": [7.85, 10, 7.6, 9.75], "texture": "#hardened_clay_stained_magenta"}
 			}
 		},
 		{
@@ -701,12 +701,12 @@
 			"from": [8.125, 12.125, 7.75],
 			"to": [8.25, 14.125, 7.875],
 			"faces": {
-				"north": {"uv": [7.5, 0, 7.75, 0], "texture": "#hardened_clay_stained_magenta"},
-				"east": {"uv": [8.25, 0, 8.5, 0], "texture": "#hardened_clay_stained_magenta"},
-				"south": {"uv": [8.25, 0, 8.5, 0], "texture": "#hardened_clay_stained_magenta"},
-				"west": {"uv": [7.5, 0, 7.75, 0], "texture": "#hardened_clay_stained_magenta"},
-				"up": {"uv": [8.25, 7.5, 8.5, 7.75], "texture": "#hardened_clay_stained_magenta"},
-				"down": {"uv": [7.75, 7.75, 7.5, 7.5], "texture": "#hardened_clay_stained_magenta"}
+				"north": {"uv": [7.6, 1.5, 7.85, 1.5], "texture": "#hardened_clay_stained_magenta"},
+				"east": {"uv": [8.35, 1.5, 8.6, 1.5], "texture": "#hardened_clay_stained_magenta"},
+				"south": {"uv": [8.35, 1.5, 8.6, 1.5], "texture": "#hardened_clay_stained_magenta"},
+				"west": {"uv": [7.7, 0.8, 7.95, 0.8], "texture": "#hardened_clay_stained_magenta"},
+				"up": {"uv": [8.35, 9, 8.6, 9.25], "texture": "#hardened_clay_stained_magenta"},
+				"down": {"uv": [7.85, 9.25, 7.6, 9], "texture": "#hardened_clay_stained_magenta"}
 			}
 		},
 		{
@@ -714,12 +714,12 @@
 			"from": [7.75, 12.125, 8.125],
 			"to": [7.875, 14.125, 8.25],
 			"faces": {
-				"north": {"uv": [8.25, 0, 8.5, 0], "texture": "#hardened_clay_stained_magenta"},
-				"east": {"uv": [7.5, 0, 7.75, 0], "texture": "#hardened_clay_stained_magenta"},
-				"south": {"uv": [7.5, 0, 7.75, 0], "texture": "#hardened_clay_stained_magenta"},
-				"west": {"uv": [8.25, 0, 8.5, 0], "texture": "#hardened_clay_stained_magenta"},
-				"up": {"uv": [7.5, 8.25, 7.75, 8.5], "texture": "#hardened_clay_stained_magenta"},
-				"down": {"uv": [8.5, 8.5, 8.25, 8.25], "texture": "#hardened_clay_stained_magenta"}
+				"north": {"uv": [8.35, 1.5, 8.6, 1.5], "texture": "#hardened_clay_stained_magenta"},
+				"east": {"uv": [7.6, 1.5, 7.85, 1.5], "texture": "#hardened_clay_stained_magenta"},
+				"south": {"uv": [7.6, 1.5, 7.85, 1.5], "texture": "#hardened_clay_stained_magenta"},
+				"west": {"uv": [8.45, 0.8, 8.7, 0.8], "texture": "#hardened_clay_stained_magenta"},
+				"up": {"uv": [7.6, 9.75, 7.85, 10], "texture": "#hardened_clay_stained_magenta"},
+				"down": {"uv": [8.6, 10, 8.35, 9.75], "texture": "#hardened_clay_stained_magenta"}
 			}
 		},
 		{
@@ -727,12 +727,12 @@
 			"from": [7.75, 12.125, 7.75],
 			"to": [7.875, 14.125, 7.875],
 			"faces": {
-				"north": {"uv": [8.25, 0, 8.5, 0], "texture": "#hardened_clay_stained_magenta"},
-				"east": {"uv": [8.25, 0, 8.5, 0], "texture": "#hardened_clay_stained_magenta"},
-				"south": {"uv": [7.5, 0, 7.75, 0], "texture": "#hardened_clay_stained_magenta"},
-				"west": {"uv": [7.5, 0, 7.75, 0], "texture": "#hardened_clay_stained_magenta"},
-				"up": {"uv": [7.5, 7.5, 7.75, 7.75], "texture": "#hardened_clay_stained_magenta"},
-				"down": {"uv": [8.5, 7.75, 8.25, 7.5], "texture": "#hardened_clay_stained_magenta"}
+				"north": {"uv": [8.35, 1.5, 8.6, 1.5], "texture": "#hardened_clay_stained_magenta"},
+				"east": {"uv": [8.35, 1.5, 8.6, 1.5], "texture": "#hardened_clay_stained_magenta"},
+				"south": {"uv": [7.6, 1.5, 7.85, 1.5], "texture": "#hardened_clay_stained_magenta"},
+				"west": {"uv": [7.7, 0.8, 7.95, 0.8], "texture": "#hardened_clay_stained_magenta"},
+				"up": {"uv": [7.6, 9, 7.85, 9.25], "texture": "#hardened_clay_stained_magenta"},
+				"down": {"uv": [8.6, 9.25, 8.35, 9], "texture": "#hardened_clay_stained_magenta"}
 			}
 		},
 		{
@@ -740,12 +740,12 @@
 			"from": [7.875, 14.125, 7.75],
 			"to": [8.125, 14.75, 8.25],
 			"faces": {
-				"north": {"uv": [7.75, 0, 8.25, 0], "texture": "#hardened_clay_stained_magenta"},
-				"east": {"uv": [7.5, 0, 8.5, 0], "texture": "#hardened_clay_stained_magenta"},
-				"south": {"uv": [7.75, 0, 8.25, 0], "texture": "#hardened_clay_stained_magenta"},
-				"west": {"uv": [7.5, 0, 8.5, 0], "texture": "#hardened_clay_stained_magenta"},
-				"up": {"uv": [7.75, 7.5, 8.25, 8.5], "texture": "#hardened_clay_stained_magenta"},
-				"down": {"uv": [8.25, 8.5, 7.75, 7.5], "texture": "#hardened_clay_stained_magenta"}
+				"north": {"uv": [7.85, 1.5, 8.35, 1.5], "texture": "#hardened_clay_stained_magenta"},
+				"east": {"uv": [7.6, 1.5, 8.6, 1.5], "texture": "#hardened_clay_stained_magenta"},
+				"south": {"uv": [7.85, 1.5, 8.35, 1.5], "texture": "#hardened_clay_stained_magenta"},
+				"west": {"uv": [7.7, 0.8, 8.7, 0.8], "texture": "#hardened_clay_stained_magenta"},
+				"up": {"uv": [7.85, 9, 8.35, 10], "texture": "#hardened_clay_stained_magenta"},
+				"down": {"uv": [8.35, 10, 7.85, 9], "texture": "#hardened_clay_stained_magenta"}
 			}
 		},
 		{
@@ -753,12 +753,12 @@
 			"from": [8.125, 14.125, 7.875],
 			"to": [8.25, 14.75, 8.125],
 			"faces": {
-				"north": {"uv": [7.5, 0, 7.75, 0], "texture": "#hardened_clay_stained_magenta"},
-				"east": {"uv": [7.75, 0, 8.25, 0], "texture": "#hardened_clay_stained_magenta"},
-				"south": {"uv": [8.25, 0, 8.5, 0], "texture": "#hardened_clay_stained_magenta"},
-				"west": {"uv": [7.75, 0, 8.25, 0], "texture": "#hardened_clay_stained_magenta"},
-				"up": {"uv": [8.25, 7.75, 8.5, 8.25], "texture": "#hardened_clay_stained_magenta"},
-				"down": {"uv": [7.75, 8.25, 7.5, 7.75], "texture": "#hardened_clay_stained_magenta"}
+				"north": {"uv": [7.6, 1.5, 7.85, 1.5], "texture": "#hardened_clay_stained_magenta"},
+				"east": {"uv": [7.85, 1.5, 8.35, 1.5], "texture": "#hardened_clay_stained_magenta"},
+				"south": {"uv": [8.35, 1.5, 8.6, 1.5], "texture": "#hardened_clay_stained_magenta"},
+				"west": {"uv": [7.95, 0.8, 8.45, 0.8], "texture": "#hardened_clay_stained_magenta"},
+				"up": {"uv": [8.35, 9.25, 8.6, 9.75], "texture": "#hardened_clay_stained_magenta"},
+				"down": {"uv": [7.85, 9.75, 7.6, 9.25], "texture": "#hardened_clay_stained_magenta"}
 			}
 		},
 		{
@@ -766,12 +766,12 @@
 			"from": [7.75, 14.125, 7.875],
 			"to": [7.875, 14.75, 8.125],
 			"faces": {
-				"north": {"uv": [8.25, 0, 8.5, 0], "texture": "#hardened_clay_stained_magenta"},
-				"east": {"uv": [7.75, 0, 8.25, 0], "texture": "#hardened_clay_stained_magenta"},
-				"south": {"uv": [7.5, 0, 7.75, 0], "texture": "#hardened_clay_stained_magenta"},
-				"west": {"uv": [7.75, 0, 8.25, 0], "texture": "#hardened_clay_stained_magenta"},
-				"up": {"uv": [7.5, 7.75, 7.75, 8.25], "texture": "#hardened_clay_stained_magenta"},
-				"down": {"uv": [8.5, 8.25, 8.25, 7.75], "texture": "#hardened_clay_stained_magenta"}
+				"north": {"uv": [8.35, 1.5, 8.6, 1.5], "texture": "#hardened_clay_stained_magenta"},
+				"east": {"uv": [7.85, 1.5, 8.35, 1.5], "texture": "#hardened_clay_stained_magenta"},
+				"south": {"uv": [7.6, 1.5, 7.85, 1.5], "texture": "#hardened_clay_stained_magenta"},
+				"west": {"uv": [7.95, 0.8, 8.45, 0.8], "texture": "#hardened_clay_stained_magenta"},
+				"up": {"uv": [7.6, 9.25, 7.85, 9.75], "texture": "#hardened_clay_stained_magenta"},
+				"down": {"uv": [8.6, 9.75, 8.35, 9.25], "texture": "#hardened_clay_stained_magenta"}
 			}
 		},
 		{
@@ -779,12 +779,12 @@
 			"from": [7.875, 1.875, 7.625],
 			"to": [8.125, 3.875, 8.375],
 			"faces": {
-				"north": {"uv": [7.75, 16, 8.25, 16], "texture": "#hardened_clay_stained_magenta"},
-				"east": {"uv": [7.25, 16, 8.75, 16], "texture": "#hardened_clay_stained_magenta"},
-				"south": {"uv": [7.75, 16, 8.25, 16], "texture": "#hardened_clay_stained_magenta"},
-				"west": {"uv": [7.25, 16, 8.75, 16], "texture": "#hardened_clay_stained_magenta"},
-				"up": {"uv": [7.75, 7.25, 8.25, 8.75], "texture": "#hardened_clay_stained_magenta"},
-				"down": {"uv": [8.25, 8.75, 7.75, 7.25], "texture": "#hardened_clay_stained_magenta"}
+				"north": {"uv": [7.75, 15.1, 8.25, 15.1], "texture": "#hardened_clay_stained_magenta"},
+				"east": {"uv": [7.25, 15.1, 8.75, 15.1], "texture": "#hardened_clay_stained_magenta"},
+				"south": {"uv": [7.75, 15.1, 8.25, 15.1], "texture": "#hardened_clay_stained_magenta"},
+				"west": {"uv": [7.25, 15.1, 8.75, 15.1], "texture": "#hardened_clay_stained_magenta"},
+				"up": {"uv": [7.75, 6.35, 8.25, 7.85], "texture": "#hardened_clay_stained_magenta"},
+				"down": {"uv": [8.25, 7.85, 7.75, 6.35], "texture": "#hardened_clay_stained_magenta"}
 			}
 		},
 		{
@@ -792,12 +792,12 @@
 			"from": [8.125, 1.875, 7.875],
 			"to": [8.375, 3.875, 8.125],
 			"faces": {
-				"north": {"uv": [7.25, 16, 7.75, 16], "texture": "#hardened_clay_stained_magenta"},
-				"east": {"uv": [7.75, 16, 8.25, 16], "texture": "#hardened_clay_stained_magenta"},
-				"south": {"uv": [8.25, 16, 8.75, 16], "texture": "#hardened_clay_stained_magenta"},
-				"west": {"uv": [7.75, 16, 8.25, 16], "texture": "#hardened_clay_stained_magenta"},
-				"up": {"uv": [8.25, 7.75, 8.75, 8.25], "texture": "#hardened_clay_stained_magenta"},
-				"down": {"uv": [7.75, 8.25, 7.25, 7.75], "texture": "#hardened_clay_stained_magenta"}
+				"north": {"uv": [7.25, 15.1, 7.75, 15.1], "texture": "#hardened_clay_stained_magenta"},
+				"east": {"uv": [7.75, 15.1, 8.25, 15.1], "texture": "#hardened_clay_stained_magenta"},
+				"south": {"uv": [8.25, 15.1, 8.75, 15.1], "texture": "#hardened_clay_stained_magenta"},
+				"west": {"uv": [7.75, 15.1, 8.25, 15.1], "texture": "#hardened_clay_stained_magenta"},
+				"up": {"uv": [8.25, 6.85, 8.75, 7.35], "texture": "#hardened_clay_stained_magenta"},
+				"down": {"uv": [7.75, 7.35, 7.25, 6.85], "texture": "#hardened_clay_stained_magenta"}
 			}
 		},
 		{
@@ -805,12 +805,12 @@
 			"from": [7.625, 1.875, 7.875],
 			"to": [7.875, 3.875, 8.125],
 			"faces": {
-				"north": {"uv": [8.25, 16, 8.75, 16], "texture": "#hardened_clay_stained_magenta"},
-				"east": {"uv": [7.75, 16, 8.25, 16], "texture": "#hardened_clay_stained_magenta"},
-				"south": {"uv": [7.25, 16, 7.75, 16], "texture": "#hardened_clay_stained_magenta"},
-				"west": {"uv": [7.75, 16, 8.25, 16], "texture": "#hardened_clay_stained_magenta"},
-				"up": {"uv": [7.25, 7.75, 7.75, 8.25], "texture": "#hardened_clay_stained_magenta"},
-				"down": {"uv": [8.75, 8.25, 8.25, 7.75], "texture": "#hardened_clay_stained_magenta"}
+				"north": {"uv": [8.25, 15.1, 8.75, 15.1], "texture": "#hardened_clay_stained_magenta"},
+				"east": {"uv": [7.75, 15.1, 8.25, 15.1], "texture": "#hardened_clay_stained_magenta"},
+				"south": {"uv": [7.25, 15.1, 7.75, 15.1], "texture": "#hardened_clay_stained_magenta"},
+				"west": {"uv": [7.75, 15.1, 8.25, 15.1], "texture": "#hardened_clay_stained_magenta"},
+				"up": {"uv": [7.25, 6.85, 7.75, 7.35], "texture": "#hardened_clay_stained_magenta"},
+				"down": {"uv": [8.75, 7.35, 8.25, 6.85], "texture": "#hardened_clay_stained_magenta"}
 			}
 		},
 		{
@@ -818,12 +818,12 @@
 			"from": [8.125, 1.875, 8.125],
 			"to": [8.25, 3.875, 8.25],
 			"faces": {
-				"north": {"uv": [7.5, 16, 7.75, 16], "texture": "#hardened_clay_stained_magenta"},
-				"east": {"uv": [7.5, 16, 7.75, 16], "texture": "#hardened_clay_stained_magenta"},
-				"south": {"uv": [8.25, 16, 8.5, 16], "texture": "#hardened_clay_stained_magenta"},
-				"west": {"uv": [8.25, 16, 8.5, 16], "texture": "#hardened_clay_stained_magenta"},
-				"up": {"uv": [8.25, 8.25, 8.5, 8.5], "texture": "#hardened_clay_stained_magenta"},
-				"down": {"uv": [7.75, 8.5, 7.5, 8.25], "texture": "#hardened_clay_stained_magenta"}
+				"north": {"uv": [7.5, 15.1, 7.75, 15.1], "texture": "#hardened_clay_stained_magenta"},
+				"east": {"uv": [7.5, 15.1, 7.75, 15.1], "texture": "#hardened_clay_stained_magenta"},
+				"south": {"uv": [8.25, 15.1, 8.5, 15.1], "texture": "#hardened_clay_stained_magenta"},
+				"west": {"uv": [8.25, 15.1, 8.5, 15.1], "texture": "#hardened_clay_stained_magenta"},
+				"up": {"uv": [8.25, 7.35, 8.5, 7.6], "texture": "#hardened_clay_stained_magenta"},
+				"down": {"uv": [7.75, 7.6, 7.5, 7.35], "texture": "#hardened_clay_stained_magenta"}
 			}
 		},
 		{
@@ -831,12 +831,12 @@
 			"from": [8.125, 1.875, 7.75],
 			"to": [8.25, 3.875, 7.875],
 			"faces": {
-				"north": {"uv": [7.5, 16, 7.75, 16], "texture": "#hardened_clay_stained_magenta"},
-				"east": {"uv": [8.25, 16, 8.5, 16], "texture": "#hardened_clay_stained_magenta"},
-				"south": {"uv": [8.25, 16, 8.5, 16], "texture": "#hardened_clay_stained_magenta"},
-				"west": {"uv": [7.5, 16, 7.75, 16], "texture": "#hardened_clay_stained_magenta"},
-				"up": {"uv": [8.25, 7.5, 8.5, 7.75], "texture": "#hardened_clay_stained_magenta"},
-				"down": {"uv": [7.75, 7.75, 7.5, 7.5], "texture": "#hardened_clay_stained_magenta"}
+				"north": {"uv": [7.5, 15.1, 7.75, 15.1], "texture": "#hardened_clay_stained_magenta"},
+				"east": {"uv": [8.25, 15.1, 8.5, 15.1], "texture": "#hardened_clay_stained_magenta"},
+				"south": {"uv": [8.25, 15.1, 8.5, 15.1], "texture": "#hardened_clay_stained_magenta"},
+				"west": {"uv": [7.5, 15.1, 7.75, 15.1], "texture": "#hardened_clay_stained_magenta"},
+				"up": {"uv": [8.25, 6.6, 8.5, 6.85], "texture": "#hardened_clay_stained_magenta"},
+				"down": {"uv": [7.75, 6.85, 7.5, 6.6], "texture": "#hardened_clay_stained_magenta"}
 			}
 		},
 		{
@@ -844,12 +844,12 @@
 			"from": [7.75, 1.875, 8.125],
 			"to": [7.875, 3.875, 8.25],
 			"faces": {
-				"north": {"uv": [8.25, 16, 8.5, 16], "texture": "#hardened_clay_stained_magenta"},
-				"east": {"uv": [7.5, 16, 7.75, 16], "texture": "#hardened_clay_stained_magenta"},
-				"south": {"uv": [7.5, 16, 7.75, 16], "texture": "#hardened_clay_stained_magenta"},
-				"west": {"uv": [8.25, 16, 8.5, 16], "texture": "#hardened_clay_stained_magenta"},
-				"up": {"uv": [7.5, 8.25, 7.75, 8.5], "texture": "#hardened_clay_stained_magenta"},
-				"down": {"uv": [8.5, 8.5, 8.25, 8.25], "texture": "#hardened_clay_stained_magenta"}
+				"north": {"uv": [8.25, 15.1, 8.5, 15.1], "texture": "#hardened_clay_stained_magenta"},
+				"east": {"uv": [7.5, 15.1, 7.75, 15.1], "texture": "#hardened_clay_stained_magenta"},
+				"south": {"uv": [7.5, 15.1, 7.75, 15.1], "texture": "#hardened_clay_stained_magenta"},
+				"west": {"uv": [8.25, 15.1, 8.5, 15.1], "texture": "#hardened_clay_stained_magenta"},
+				"up": {"uv": [7.5, 7.35, 7.75, 7.6], "texture": "#hardened_clay_stained_magenta"},
+				"down": {"uv": [8.5, 7.6, 8.25, 7.35], "texture": "#hardened_clay_stained_magenta"}
 			}
 		},
 		{
@@ -857,12 +857,12 @@
 			"from": [7.75, 1.875, 7.75],
 			"to": [7.875, 3.875, 7.875],
 			"faces": {
-				"north": {"uv": [8.25, 16, 8.5, 16], "texture": "#hardened_clay_stained_magenta"},
-				"east": {"uv": [8.25, 16, 8.5, 16], "texture": "#hardened_clay_stained_magenta"},
-				"south": {"uv": [7.5, 16, 7.75, 16], "texture": "#hardened_clay_stained_magenta"},
-				"west": {"uv": [7.5, 16, 7.75, 16], "texture": "#hardened_clay_stained_magenta"},
-				"up": {"uv": [7.5, 7.5, 7.75, 7.75], "texture": "#hardened_clay_stained_magenta"},
-				"down": {"uv": [8.5, 7.75, 8.25, 7.5], "texture": "#hardened_clay_stained_magenta"}
+				"north": {"uv": [8.25, 15.1, 8.5, 15.1], "texture": "#hardened_clay_stained_magenta"},
+				"east": {"uv": [8.25, 15.1, 8.5, 15.1], "texture": "#hardened_clay_stained_magenta"},
+				"south": {"uv": [7.5, 15.1, 7.75, 15.1], "texture": "#hardened_clay_stained_magenta"},
+				"west": {"uv": [7.5, 15.1, 7.75, 15.1], "texture": "#hardened_clay_stained_magenta"},
+				"up": {"uv": [7.5, 6.6, 7.75, 6.85], "texture": "#hardened_clay_stained_magenta"},
+				"down": {"uv": [8.5, 6.85, 8.25, 6.6], "texture": "#hardened_clay_stained_magenta"}
 			}
 		},
 		{
@@ -870,12 +870,12 @@
 			"from": [7.875, 1.25, 7.75],
 			"to": [8.125, 1.875, 8.25],
 			"faces": {
-				"north": {"uv": [7.75, 16, 8.25, 16], "texture": "#hardened_clay_stained_magenta"},
-				"east": {"uv": [7.5, 16, 8.5, 16], "texture": "#hardened_clay_stained_magenta"},
-				"south": {"uv": [7.75, 16, 8.25, 16], "texture": "#hardened_clay_stained_magenta"},
-				"west": {"uv": [7.5, 16, 8.5, 16], "texture": "#hardened_clay_stained_magenta"},
-				"up": {"uv": [7.75, 7.5, 8.25, 8.5], "texture": "#hardened_clay_stained_magenta"},
-				"down": {"uv": [8.25, 8.5, 7.75, 7.5], "texture": "#hardened_clay_stained_magenta"}
+				"north": {"uv": [7.75, 15.1, 8.25, 15.1], "texture": "#hardened_clay_stained_magenta"},
+				"east": {"uv": [7.5, 15.1, 8.5, 15.1], "texture": "#hardened_clay_stained_magenta"},
+				"south": {"uv": [7.75, 15.1, 8.25, 15.1], "texture": "#hardened_clay_stained_magenta"},
+				"west": {"uv": [7.5, 15.1, 8.5, 15.1], "texture": "#hardened_clay_stained_magenta"},
+				"up": {"uv": [7.75, 6.6, 8.25, 7.6], "texture": "#hardened_clay_stained_magenta"},
+				"down": {"uv": [8.25, 7.6, 7.75, 6.6], "texture": "#hardened_clay_stained_magenta"}
 			}
 		},
 		{
@@ -883,12 +883,12 @@
 			"from": [8.125, 1.25, 7.875],
 			"to": [8.25, 1.875, 8.125],
 			"faces": {
-				"north": {"uv": [7.5, 16, 7.75, 16], "texture": "#hardened_clay_stained_magenta"},
-				"east": {"uv": [7.75, 16, 8.25, 16], "texture": "#hardened_clay_stained_magenta"},
-				"south": {"uv": [8.25, 16, 8.5, 16], "texture": "#hardened_clay_stained_magenta"},
-				"west": {"uv": [7.75, 16, 8.25, 16], "texture": "#hardened_clay_stained_magenta"},
-				"up": {"uv": [8.25, 7.75, 8.5, 8.25], "texture": "#hardened_clay_stained_magenta"},
-				"down": {"uv": [7.75, 8.25, 7.5, 7.75], "texture": "#hardened_clay_stained_magenta"}
+				"north": {"uv": [7.5, 15.1, 7.75, 15.1], "texture": "#hardened_clay_stained_magenta"},
+				"east": {"uv": [7.75, 15.1, 8.25, 15.1], "texture": "#hardened_clay_stained_magenta"},
+				"south": {"uv": [8.25, 15.1, 8.5, 15.1], "texture": "#hardened_clay_stained_magenta"},
+				"west": {"uv": [7.75, 15.1, 8.25, 15.1], "texture": "#hardened_clay_stained_magenta"},
+				"up": {"uv": [8.25, 6.85, 8.5, 7.35], "texture": "#hardened_clay_stained_magenta"},
+				"down": {"uv": [7.75, 7.35, 7.5, 6.85], "texture": "#hardened_clay_stained_magenta"}
 			}
 		},
 		{
@@ -896,12 +896,12 @@
 			"from": [7.75, 1.25, 7.875],
 			"to": [7.875, 1.875, 8.125],
 			"faces": {
-				"north": {"uv": [8.25, 16, 8.5, 16], "texture": "#hardened_clay_stained_magenta"},
-				"east": {"uv": [7.75, 16, 8.25, 16], "texture": "#hardened_clay_stained_magenta"},
-				"south": {"uv": [7.5, 16, 7.75, 16], "texture": "#hardened_clay_stained_magenta"},
-				"west": {"uv": [7.75, 16, 8.25, 16], "texture": "#hardened_clay_stained_magenta"},
-				"up": {"uv": [7.5, 7.75, 7.75, 8.25], "texture": "#hardened_clay_stained_magenta"},
-				"down": {"uv": [8.5, 8.25, 8.25, 7.75], "texture": "#hardened_clay_stained_magenta"}
+				"north": {"uv": [8.25, 15.1, 8.5, 15.1], "texture": "#hardened_clay_stained_magenta"},
+				"east": {"uv": [7.75, 15.1, 8.25, 15.1], "texture": "#hardened_clay_stained_magenta"},
+				"south": {"uv": [7.5, 15.1, 7.75, 15.1], "texture": "#hardened_clay_stained_magenta"},
+				"west": {"uv": [7.75, 15.1, 8.25, 15.1], "texture": "#hardened_clay_stained_magenta"},
+				"up": {"uv": [7.5, 6.85, 7.75, 7.35], "texture": "#hardened_clay_stained_magenta"},
+				"down": {"uv": [8.5, 7.35, 8.25, 6.85], "texture": "#hardened_clay_stained_magenta"}
 			}
 		},
 		{
@@ -909,12 +909,12 @@
 			"from": [7.875, 14.75, 7.625],
 			"to": [8.125, 17.75, 8.375],
 			"faces": {
-				"north": {"uv": [7.75, 0, 8.25, 0], "texture": "#hardened_clay_stained_magenta"},
-				"east": {"uv": [7.25, 0, 8.75, 0], "texture": "#hardened_clay_stained_magenta"},
-				"south": {"uv": [7.75, 0, 8.25, 0], "texture": "#hardened_clay_stained_magenta"},
-				"west": {"uv": [7.25, 0, 8.75, 0], "texture": "#hardened_clay_stained_magenta"},
-				"up": {"uv": [7.75, 7.25, 8.25, 8.75], "texture": "#hardened_clay_stained_magenta"},
-				"down": {"uv": [8.25, 8.75, 7.75, 7.25], "texture": "#hardened_clay_stained_magenta"}
+				"north": {"uv": [7.85, 1.5, 8.35, 1.5], "texture": "#hardened_clay_stained_magenta"},
+				"east": {"uv": [7.35, 1.5, 8.85, 1.5], "texture": "#hardened_clay_stained_magenta"},
+				"south": {"uv": [7.85, 1.5, 8.35, 1.5], "texture": "#hardened_clay_stained_magenta"},
+				"west": {"uv": [7.45, 0.8, 8.95, 0.8], "texture": "#hardened_clay_stained_magenta"},
+				"up": {"uv": [7.85, 8.75, 8.35, 10.25], "texture": "#hardened_clay_stained_magenta"},
+				"down": {"uv": [8.35, 10.25, 7.85, 8.75], "texture": "#hardened_clay_stained_magenta"}
 			}
 		},
 		{
@@ -922,12 +922,12 @@
 			"from": [8.125, 14.75, 7.875],
 			"to": [8.375, 17.75, 8.125],
 			"faces": {
-				"north": {"uv": [7.25, 0, 7.75, 0], "texture": "#hardened_clay_stained_magenta"},
-				"east": {"uv": [7.75, 0, 8.25, 0], "texture": "#hardened_clay_stained_magenta"},
-				"south": {"uv": [8.25, 0, 8.75, 0], "texture": "#hardened_clay_stained_magenta"},
-				"west": {"uv": [7.75, 0, 8.25, 0], "texture": "#hardened_clay_stained_magenta"},
-				"up": {"uv": [8.25, 7.75, 8.75, 8.25], "texture": "#hardened_clay_stained_magenta"},
-				"down": {"uv": [7.75, 8.25, 7.25, 7.75], "texture": "#hardened_clay_stained_magenta"}
+				"north": {"uv": [7.35, 1.5, 7.85, 1.5], "texture": "#hardened_clay_stained_magenta"},
+				"east": {"uv": [7.85, 1.5, 8.35, 1.5], "texture": "#hardened_clay_stained_magenta"},
+				"south": {"uv": [8.35, 1.5, 8.85, 1.5], "texture": "#hardened_clay_stained_magenta"},
+				"west": {"uv": [7.95, 0.8, 8.45, 0.8], "texture": "#hardened_clay_stained_magenta"},
+				"up": {"uv": [8.35, 9.25, 8.85, 9.75], "texture": "#hardened_clay_stained_magenta"},
+				"down": {"uv": [7.85, 9.75, 7.35, 9.25], "texture": "#hardened_clay_stained_magenta"}
 			}
 		},
 		{
@@ -935,12 +935,12 @@
 			"from": [7.625, 14.75, 7.875],
 			"to": [7.875, 17.75, 8.125],
 			"faces": {
-				"north": {"uv": [8.25, 0, 8.75, 0], "texture": "#hardened_clay_stained_magenta"},
-				"east": {"uv": [7.75, 0, 8.25, 0], "texture": "#hardened_clay_stained_magenta"},
-				"south": {"uv": [7.25, 0, 7.75, 0], "texture": "#hardened_clay_stained_magenta"},
-				"west": {"uv": [7.75, 0, 8.25, 0], "texture": "#hardened_clay_stained_magenta"},
-				"up": {"uv": [7.25, 7.75, 7.75, 8.25], "texture": "#hardened_clay_stained_magenta"},
-				"down": {"uv": [8.75, 8.25, 8.25, 7.75], "texture": "#hardened_clay_stained_magenta"}
+				"north": {"uv": [8.35, 1.5, 8.85, 1.5], "texture": "#hardened_clay_stained_magenta"},
+				"east": {"uv": [7.85, 1.5, 8.35, 1.5], "texture": "#hardened_clay_stained_magenta"},
+				"south": {"uv": [7.35, 1.5, 7.85, 1.5], "texture": "#hardened_clay_stained_magenta"},
+				"west": {"uv": [7.95, 0.8, 8.45, 0.8], "texture": "#hardened_clay_stained_magenta"},
+				"up": {"uv": [7.35, 9.25, 7.85, 9.75], "texture": "#hardened_clay_stained_magenta"},
+				"down": {"uv": [8.85, 9.75, 8.35, 9.25], "texture": "#hardened_clay_stained_magenta"}
 			}
 		},
 		{
@@ -948,12 +948,12 @@
 			"from": [8.125, 14.75, 8.125],
 			"to": [8.25, 17.75, 8.25],
 			"faces": {
-				"north": {"uv": [7.5, 0, 7.75, 0], "texture": "#hardened_clay_stained_magenta"},
-				"east": {"uv": [7.5, 0, 7.75, 0], "texture": "#hardened_clay_stained_magenta"},
-				"south": {"uv": [8.25, 0, 8.5, 0], "texture": "#hardened_clay_stained_magenta"},
-				"west": {"uv": [8.25, 0, 8.5, 0], "texture": "#hardened_clay_stained_magenta"},
-				"up": {"uv": [8.25, 8.25, 8.5, 8.5], "texture": "#hardened_clay_stained_magenta"},
-				"down": {"uv": [7.75, 8.5, 7.5, 8.25], "texture": "#hardened_clay_stained_magenta"}
+				"north": {"uv": [7.6, 1.5, 7.85, 1.5], "texture": "#hardened_clay_stained_magenta"},
+				"east": {"uv": [7.6, 1.5, 7.85, 1.5], "texture": "#hardened_clay_stained_magenta"},
+				"south": {"uv": [8.35, 1.5, 8.6, 1.5], "texture": "#hardened_clay_stained_magenta"},
+				"west": {"uv": [8.45, 0.8, 8.7, 0.8], "texture": "#hardened_clay_stained_magenta"},
+				"up": {"uv": [8.35, 9.75, 8.6, 10], "texture": "#hardened_clay_stained_magenta"},
+				"down": {"uv": [7.85, 10, 7.6, 9.75], "texture": "#hardened_clay_stained_magenta"}
 			}
 		},
 		{
@@ -961,12 +961,12 @@
 			"from": [8.125, 14.75, 7.75],
 			"to": [8.25, 17.75, 7.875],
 			"faces": {
-				"north": {"uv": [7.5, 0, 7.75, 0], "texture": "#hardened_clay_stained_magenta"},
-				"east": {"uv": [8.25, 0, 8.5, 0], "texture": "#hardened_clay_stained_magenta"},
-				"south": {"uv": [8.25, 0, 8.5, 0], "texture": "#hardened_clay_stained_magenta"},
-				"west": {"uv": [7.5, 0, 7.75, 0], "texture": "#hardened_clay_stained_magenta"},
-				"up": {"uv": [8.25, 7.5, 8.5, 7.75], "texture": "#hardened_clay_stained_magenta"},
-				"down": {"uv": [7.75, 7.75, 7.5, 7.5], "texture": "#hardened_clay_stained_magenta"}
+				"north": {"uv": [7.6, 1.5, 7.85, 1.5], "texture": "#hardened_clay_stained_magenta"},
+				"east": {"uv": [8.35, 1.5, 8.6, 1.5], "texture": "#hardened_clay_stained_magenta"},
+				"south": {"uv": [8.35, 1.5, 8.6, 1.5], "texture": "#hardened_clay_stained_magenta"},
+				"west": {"uv": [7.7, 0.8, 7.95, 0.8], "texture": "#hardened_clay_stained_magenta"},
+				"up": {"uv": [8.35, 9, 8.6, 9.25], "texture": "#hardened_clay_stained_magenta"},
+				"down": {"uv": [7.85, 9.25, 7.6, 9], "texture": "#hardened_clay_stained_magenta"}
 			}
 		},
 		{
@@ -974,12 +974,12 @@
 			"from": [7.75, 14.75, 8.125],
 			"to": [7.875, 17.75, 8.25],
 			"faces": {
-				"north": {"uv": [8.25, 0, 8.5, 0], "texture": "#hardened_clay_stained_magenta"},
-				"east": {"uv": [7.5, 0, 7.75, 0], "texture": "#hardened_clay_stained_magenta"},
-				"south": {"uv": [7.5, 0, 7.75, 0], "texture": "#hardened_clay_stained_magenta"},
-				"west": {"uv": [8.25, 0, 8.5, 0], "texture": "#hardened_clay_stained_magenta"},
-				"up": {"uv": [7.5, 8.25, 7.75, 8.5], "texture": "#hardened_clay_stained_magenta"},
-				"down": {"uv": [8.5, 8.5, 8.25, 8.25], "texture": "#hardened_clay_stained_magenta"}
+				"north": {"uv": [8.35, 1.5, 8.6, 1.5], "texture": "#hardened_clay_stained_magenta"},
+				"east": {"uv": [7.6, 1.5, 7.85, 1.5], "texture": "#hardened_clay_stained_magenta"},
+				"south": {"uv": [7.6, 1.5, 7.85, 1.5], "texture": "#hardened_clay_stained_magenta"},
+				"west": {"uv": [8.45, 0.8, 8.7, 0.8], "texture": "#hardened_clay_stained_magenta"},
+				"up": {"uv": [7.6, 9.75, 7.85, 10], "texture": "#hardened_clay_stained_magenta"},
+				"down": {"uv": [8.6, 10, 8.35, 9.75], "texture": "#hardened_clay_stained_magenta"}
 			}
 		},
 		{
@@ -987,12 +987,12 @@
 			"from": [7.75, 14.75, 7.75],
 			"to": [7.875, 17.75, 7.875],
 			"faces": {
-				"north": {"uv": [8.25, 0, 8.5, 0], "texture": "#hardened_clay_stained_magenta"},
-				"east": {"uv": [8.25, 0, 8.5, 0], "texture": "#hardened_clay_stained_magenta"},
-				"south": {"uv": [7.5, 0, 7.75, 0], "texture": "#hardened_clay_stained_magenta"},
-				"west": {"uv": [7.5, 0, 7.75, 0], "texture": "#hardened_clay_stained_magenta"},
-				"up": {"uv": [7.5, 7.5, 7.75, 7.75], "texture": "#hardened_clay_stained_magenta"},
-				"down": {"uv": [8.5, 7.75, 8.25, 7.5], "texture": "#hardened_clay_stained_magenta"}
+				"north": {"uv": [8.35, 1.5, 8.6, 1.5], "texture": "#hardened_clay_stained_magenta"},
+				"east": {"uv": [8.35, 1.5, 8.6, 1.5], "texture": "#hardened_clay_stained_magenta"},
+				"south": {"uv": [7.6, 1.5, 7.85, 1.5], "texture": "#hardened_clay_stained_magenta"},
+				"west": {"uv": [7.7, 0.8, 7.95, 0.8], "texture": "#hardened_clay_stained_magenta"},
+				"up": {"uv": [7.6, 9, 7.85, 9.25], "texture": "#hardened_clay_stained_magenta"},
+				"down": {"uv": [8.6, 9.25, 8.35, 9], "texture": "#hardened_clay_stained_magenta"}
 			}
 		},
 		{
@@ -1000,12 +1000,12 @@
 			"from": [7.875, -1.75, 7.625],
 			"to": [8.125, 1.25, 8.375],
 			"faces": {
-				"north": {"uv": [7.75, 16, 8.25, 16], "texture": "#hardened_clay_stained_magenta"},
-				"east": {"uv": [7.25, 16, 8.75, 16], "texture": "#hardened_clay_stained_magenta"},
-				"south": {"uv": [7.75, 16, 8.25, 16], "texture": "#hardened_clay_stained_magenta"},
-				"west": {"uv": [7.25, 16, 8.75, 16], "texture": "#hardened_clay_stained_magenta"},
-				"up": {"uv": [7.75, 7.25, 8.25, 8.75], "texture": "#hardened_clay_stained_magenta"},
-				"down": {"uv": [8.25, 8.75, 7.75, 7.25], "texture": "#hardened_clay_stained_magenta"}
+				"north": {"uv": [7.75, 15.1, 8.25, 15.1], "texture": "#hardened_clay_stained_magenta"},
+				"east": {"uv": [7.25, 15.1, 8.75, 15.1], "texture": "#hardened_clay_stained_magenta"},
+				"south": {"uv": [7.75, 15.1, 8.25, 15.1], "texture": "#hardened_clay_stained_magenta"},
+				"west": {"uv": [7.25, 15.1, 8.75, 15.1], "texture": "#hardened_clay_stained_magenta"},
+				"up": {"uv": [7.75, 6.35, 8.25, 7.85], "texture": "#hardened_clay_stained_magenta"},
+				"down": {"uv": [8.25, 7.85, 7.75, 6.35], "texture": "#hardened_clay_stained_magenta"}
 			}
 		},
 		{
@@ -1013,12 +1013,12 @@
 			"from": [8.125, -1.75, 7.875],
 			"to": [8.375, 1.25, 8.125],
 			"faces": {
-				"north": {"uv": [7.25, 16, 7.75, 16], "texture": "#hardened_clay_stained_magenta"},
-				"east": {"uv": [7.75, 16, 8.25, 16], "texture": "#hardened_clay_stained_magenta"},
-				"south": {"uv": [8.25, 16, 8.75, 16], "texture": "#hardened_clay_stained_magenta"},
-				"west": {"uv": [7.75, 16, 8.25, 16], "texture": "#hardened_clay_stained_magenta"},
-				"up": {"uv": [8.25, 7.75, 8.75, 8.25], "texture": "#hardened_clay_stained_magenta"},
-				"down": {"uv": [7.75, 8.25, 7.25, 7.75], "texture": "#hardened_clay_stained_magenta"}
+				"north": {"uv": [7.25, 15.1, 7.75, 15.1], "texture": "#hardened_clay_stained_magenta"},
+				"east": {"uv": [7.75, 15.1, 8.25, 15.1], "texture": "#hardened_clay_stained_magenta"},
+				"south": {"uv": [8.25, 15.1, 8.75, 15.1], "texture": "#hardened_clay_stained_magenta"},
+				"west": {"uv": [7.75, 15.1, 8.25, 15.1], "texture": "#hardened_clay_stained_magenta"},
+				"up": {"uv": [8.25, 6.85, 8.75, 7.35], "texture": "#hardened_clay_stained_magenta"},
+				"down": {"uv": [7.75, 7.35, 7.25, 6.85], "texture": "#hardened_clay_stained_magenta"}
 			}
 		},
 		{
@@ -1026,12 +1026,12 @@
 			"from": [7.625, -1.75, 7.875],
 			"to": [7.875, 1.25, 8.125],
 			"faces": {
-				"north": {"uv": [8.25, 16, 8.75, 16], "texture": "#hardened_clay_stained_magenta"},
-				"east": {"uv": [7.75, 16, 8.25, 16], "texture": "#hardened_clay_stained_magenta"},
-				"south": {"uv": [7.25, 16, 7.75, 16], "texture": "#hardened_clay_stained_magenta"},
-				"west": {"uv": [7.75, 16, 8.25, 16], "texture": "#hardened_clay_stained_magenta"},
-				"up": {"uv": [7.25, 7.75, 7.75, 8.25], "texture": "#hardened_clay_stained_magenta"},
-				"down": {"uv": [8.75, 8.25, 8.25, 7.75], "texture": "#hardened_clay_stained_magenta"}
+				"north": {"uv": [8.25, 15.1, 8.75, 15.1], "texture": "#hardened_clay_stained_magenta"},
+				"east": {"uv": [7.75, 15.1, 8.25, 15.1], "texture": "#hardened_clay_stained_magenta"},
+				"south": {"uv": [7.25, 15.1, 7.75, 15.1], "texture": "#hardened_clay_stained_magenta"},
+				"west": {"uv": [7.75, 15.1, 8.25, 15.1], "texture": "#hardened_clay_stained_magenta"},
+				"up": {"uv": [7.25, 6.85, 7.75, 7.35], "texture": "#hardened_clay_stained_magenta"},
+				"down": {"uv": [8.75, 7.35, 8.25, 6.85], "texture": "#hardened_clay_stained_magenta"}
 			}
 		},
 		{
@@ -1039,12 +1039,12 @@
 			"from": [8.125, -1.75, 8.125],
 			"to": [8.25, 1.25, 8.25],
 			"faces": {
-				"north": {"uv": [7.5, 16, 7.75, 16], "texture": "#hardened_clay_stained_magenta"},
-				"east": {"uv": [7.5, 16, 7.75, 16], "texture": "#hardened_clay_stained_magenta"},
-				"south": {"uv": [8.25, 16, 8.5, 16], "texture": "#hardened_clay_stained_magenta"},
-				"west": {"uv": [8.25, 16, 8.5, 16], "texture": "#hardened_clay_stained_magenta"},
-				"up": {"uv": [8.25, 8.25, 8.5, 8.5], "texture": "#hardened_clay_stained_magenta"},
-				"down": {"uv": [7.75, 8.5, 7.5, 8.25], "texture": "#hardened_clay_stained_magenta"}
+				"north": {"uv": [7.5, 15.1, 7.75, 15.1], "texture": "#hardened_clay_stained_magenta"},
+				"east": {"uv": [7.5, 15.1, 7.75, 15.1], "texture": "#hardened_clay_stained_magenta"},
+				"south": {"uv": [8.25, 15.1, 8.5, 15.1], "texture": "#hardened_clay_stained_magenta"},
+				"west": {"uv": [8.25, 15.1, 8.5, 15.1], "texture": "#hardened_clay_stained_magenta"},
+				"up": {"uv": [8.25, 7.35, 8.5, 7.6], "texture": "#hardened_clay_stained_magenta"},
+				"down": {"uv": [7.75, 7.6, 7.5, 7.35], "texture": "#hardened_clay_stained_magenta"}
 			}
 		},
 		{
@@ -1052,12 +1052,12 @@
 			"from": [8.125, -1.75, 7.75],
 			"to": [8.25, 1.25, 7.875],
 			"faces": {
-				"north": {"uv": [7.5, 16, 7.75, 16], "texture": "#hardened_clay_stained_magenta"},
-				"east": {"uv": [8.25, 16, 8.5, 16], "texture": "#hardened_clay_stained_magenta"},
-				"south": {"uv": [8.25, 16, 8.5, 16], "texture": "#hardened_clay_stained_magenta"},
-				"west": {"uv": [7.5, 16, 7.75, 16], "texture": "#hardened_clay_stained_magenta"},
-				"up": {"uv": [8.25, 7.5, 8.5, 7.75], "texture": "#hardened_clay_stained_magenta"},
-				"down": {"uv": [7.75, 7.75, 7.5, 7.5], "texture": "#hardened_clay_stained_magenta"}
+				"north": {"uv": [7.5, 15.1, 7.75, 15.1], "texture": "#hardened_clay_stained_magenta"},
+				"east": {"uv": [8.25, 15.1, 8.5, 15.1], "texture": "#hardened_clay_stained_magenta"},
+				"south": {"uv": [8.25, 15.1, 8.5, 15.1], "texture": "#hardened_clay_stained_magenta"},
+				"west": {"uv": [7.5, 15.1, 7.75, 15.1], "texture": "#hardened_clay_stained_magenta"},
+				"up": {"uv": [8.25, 6.6, 8.5, 6.85], "texture": "#hardened_clay_stained_magenta"},
+				"down": {"uv": [7.75, 6.85, 7.5, 6.6], "texture": "#hardened_clay_stained_magenta"}
 			}
 		},
 		{
@@ -1065,12 +1065,12 @@
 			"from": [7.75, -1.75, 8.125],
 			"to": [7.875, 1.25, 8.25],
 			"faces": {
-				"north": {"uv": [8.25, 16, 8.5, 16], "texture": "#hardened_clay_stained_magenta"},
-				"east": {"uv": [7.5, 16, 7.75, 16], "texture": "#hardened_clay_stained_magenta"},
-				"south": {"uv": [7.5, 16, 7.75, 16], "texture": "#hardened_clay_stained_magenta"},
-				"west": {"uv": [8.25, 16, 8.5, 16], "texture": "#hardened_clay_stained_magenta"},
-				"up": {"uv": [7.5, 8.25, 7.75, 8.5], "texture": "#hardened_clay_stained_magenta"},
-				"down": {"uv": [8.5, 8.5, 8.25, 8.25], "texture": "#hardened_clay_stained_magenta"}
+				"north": {"uv": [8.25, 15.1, 8.5, 15.1], "texture": "#hardened_clay_stained_magenta"},
+				"east": {"uv": [7.5, 15.1, 7.75, 15.1], "texture": "#hardened_clay_stained_magenta"},
+				"south": {"uv": [7.5, 15.1, 7.75, 15.1], "texture": "#hardened_clay_stained_magenta"},
+				"west": {"uv": [8.25, 15.1, 8.5, 15.1], "texture": "#hardened_clay_stained_magenta"},
+				"up": {"uv": [7.5, 7.35, 7.75, 7.6], "texture": "#hardened_clay_stained_magenta"},
+				"down": {"uv": [8.5, 7.6, 8.25, 7.35], "texture": "#hardened_clay_stained_magenta"}
 			}
 		},
 		{
@@ -1078,12 +1078,12 @@
 			"from": [7.75, -1.75, 7.75],
 			"to": [7.875, 1.25, 7.875],
 			"faces": {
-				"north": {"uv": [8.25, 16, 8.5, 16], "texture": "#hardened_clay_stained_magenta"},
-				"east": {"uv": [8.25, 16, 8.5, 16], "texture": "#hardened_clay_stained_magenta"},
-				"south": {"uv": [7.5, 16, 7.75, 16], "texture": "#hardened_clay_stained_magenta"},
-				"west": {"uv": [7.5, 16, 7.75, 16], "texture": "#hardened_clay_stained_magenta"},
-				"up": {"uv": [7.5, 7.5, 7.75, 7.75], "texture": "#hardened_clay_stained_magenta"},
-				"down": {"uv": [8.5, 7.75, 8.25, 7.5], "texture": "#hardened_clay_stained_magenta"}
+				"north": {"uv": [8.25, 15.1, 8.5, 15.1], "texture": "#hardened_clay_stained_magenta"},
+				"east": {"uv": [8.25, 15.1, 8.5, 15.1], "texture": "#hardened_clay_stained_magenta"},
+				"south": {"uv": [7.5, 15.1, 7.75, 15.1], "texture": "#hardened_clay_stained_magenta"},
+				"west": {"uv": [7.5, 15.1, 7.75, 15.1], "texture": "#hardened_clay_stained_magenta"},
+				"up": {"uv": [7.5, 6.6, 7.75, 6.85], "texture": "#hardened_clay_stained_magenta"},
+				"down": {"uv": [8.5, 6.85, 8.25, 6.6], "texture": "#hardened_clay_stained_magenta"}
 			}
 		},
 		{
@@ -1091,12 +1091,12 @@
 			"from": [7.875, 17.75, 7.75],
 			"to": [8.125, 17.875, 8.25],
 			"faces": {
-				"north": {"uv": [7.75, 0, 8.25, 0], "texture": "#hardened_clay_stained_magenta"},
-				"east": {"uv": [7.5, 0, 8.5, 0], "texture": "#hardened_clay_stained_magenta"},
-				"south": {"uv": [7.75, 0, 8.25, 0], "texture": "#hardened_clay_stained_magenta"},
-				"west": {"uv": [7.5, 0, 8.5, 0], "texture": "#hardened_clay_stained_magenta"},
-				"up": {"uv": [7.75, 7.5, 8.25, 8.5], "texture": "#hardened_clay_stained_magenta"},
-				"down": {"uv": [8.25, 8.5, 7.75, 7.5], "texture": "#hardened_clay_stained_magenta"}
+				"north": {"uv": [7.85, 1.5, 8.35, 1.5], "texture": "#hardened_clay_stained_magenta"},
+				"east": {"uv": [7.6, 1.5, 8.6, 1.5], "texture": "#hardened_clay_stained_magenta"},
+				"south": {"uv": [7.85, 1.5, 8.35, 1.5], "texture": "#hardened_clay_stained_magenta"},
+				"west": {"uv": [7.7, 0.8, 8.7, 0.8], "texture": "#hardened_clay_stained_magenta"},
+				"up": {"uv": [7.85, 9, 8.35, 10], "texture": "#hardened_clay_stained_magenta"},
+				"down": {"uv": [8.35, 10, 7.85, 9], "texture": "#hardened_clay_stained_magenta"}
 			}
 		},
 		{
@@ -1104,12 +1104,12 @@
 			"from": [8.125, 17.75, 7.875],
 			"to": [8.25, 17.875, 8.125],
 			"faces": {
-				"north": {"uv": [7.5, 0, 7.75, 0], "texture": "#hardened_clay_stained_magenta"},
-				"east": {"uv": [7.75, 0, 8.25, 0], "texture": "#hardened_clay_stained_magenta"},
-				"south": {"uv": [8.25, 0, 8.5, 0], "texture": "#hardened_clay_stained_magenta"},
-				"west": {"uv": [7.75, 0, 8.25, 0], "texture": "#hardened_clay_stained_magenta"},
-				"up": {"uv": [8.25, 7.75, 8.5, 8.25], "texture": "#hardened_clay_stained_magenta"},
-				"down": {"uv": [7.75, 8.25, 7.5, 7.75], "texture": "#hardened_clay_stained_magenta"}
+				"north": {"uv": [7.6, 1.5, 7.85, 1.5], "texture": "#hardened_clay_stained_magenta"},
+				"east": {"uv": [7.85, 1.5, 8.35, 1.5], "texture": "#hardened_clay_stained_magenta"},
+				"south": {"uv": [8.35, 1.5, 8.6, 1.5], "texture": "#hardened_clay_stained_magenta"},
+				"west": {"uv": [7.95, 0.8, 8.45, 0.8], "texture": "#hardened_clay_stained_magenta"},
+				"up": {"uv": [8.35, 9.25, 8.6, 9.75], "texture": "#hardened_clay_stained_magenta"},
+				"down": {"uv": [7.85, 9.75, 7.6, 9.25], "texture": "#hardened_clay_stained_magenta"}
 			}
 		},
 		{
@@ -1117,12 +1117,12 @@
 			"from": [7.75, 17.75, 7.875],
 			"to": [7.875, 17.875, 8.125],
 			"faces": {
-				"north": {"uv": [8.25, 0, 8.5, 0], "texture": "#hardened_clay_stained_magenta"},
-				"east": {"uv": [7.75, 0, 8.25, 0], "texture": "#hardened_clay_stained_magenta"},
-				"south": {"uv": [7.5, 0, 7.75, 0], "texture": "#hardened_clay_stained_magenta"},
-				"west": {"uv": [7.75, 0, 8.25, 0], "texture": "#hardened_clay_stained_magenta"},
-				"up": {"uv": [7.5, 7.75, 7.75, 8.25], "texture": "#hardened_clay_stained_magenta"},
-				"down": {"uv": [8.5, 8.25, 8.25, 7.75], "texture": "#hardened_clay_stained_magenta"}
+				"north": {"uv": [8.35, 1.5, 8.6, 1.5], "texture": "#hardened_clay_stained_magenta"},
+				"east": {"uv": [7.85, 1.5, 8.35, 1.5], "texture": "#hardened_clay_stained_magenta"},
+				"south": {"uv": [7.6, 1.5, 7.85, 1.5], "texture": "#hardened_clay_stained_magenta"},
+				"west": {"uv": [7.95, 0.8, 8.45, 0.8], "texture": "#hardened_clay_stained_magenta"},
+				"up": {"uv": [7.6, 9.25, 7.85, 9.75], "texture": "#hardened_clay_stained_magenta"},
+				"down": {"uv": [8.6, 9.75, 8.35, 9.25], "texture": "#hardened_clay_stained_magenta"}
 			}
 		},
 		{
@@ -1130,12 +1130,12 @@
 			"from": [7.875, -1.875, 7.75],
 			"to": [8.125, -1.75, 8.25],
 			"faces": {
-				"north": {"uv": [7.75, 16, 8.25, 16], "texture": "#hardened_clay_stained_magenta"},
-				"east": {"uv": [7.5, 16, 8.5, 16], "texture": "#hardened_clay_stained_magenta"},
-				"south": {"uv": [7.75, 16, 8.25, 16], "texture": "#hardened_clay_stained_magenta"},
-				"west": {"uv": [7.5, 16, 8.5, 16], "texture": "#hardened_clay_stained_magenta"},
-				"up": {"uv": [7.75, 7.5, 8.25, 8.5], "texture": "#hardened_clay_stained_magenta"},
-				"down": {"uv": [8.25, 8.5, 7.75, 7.5], "texture": "#hardened_clay_stained_magenta"}
+				"north": {"uv": [7.75, 15.1, 8.25, 15.1], "texture": "#hardened_clay_stained_magenta"},
+				"east": {"uv": [7.5, 15.1, 8.5, 15.1], "texture": "#hardened_clay_stained_magenta"},
+				"south": {"uv": [7.75, 15.1, 8.25, 15.1], "texture": "#hardened_clay_stained_magenta"},
+				"west": {"uv": [7.5, 15.1, 8.5, 15.1], "texture": "#hardened_clay_stained_magenta"},
+				"up": {"uv": [7.75, 6.6, 8.25, 7.6], "texture": "#hardened_clay_stained_magenta"},
+				"down": {"uv": [8.25, 7.6, 7.75, 6.6], "texture": "#hardened_clay_stained_magenta"}
 			}
 		},
 		{
@@ -1143,12 +1143,12 @@
 			"from": [8.125, -1.875, 7.875],
 			"to": [8.25, -1.75, 8.125],
 			"faces": {
-				"north": {"uv": [7.5, 16, 7.75, 16], "texture": "#hardened_clay_stained_magenta"},
-				"east": {"uv": [7.75, 16, 8.25, 16], "texture": "#hardened_clay_stained_magenta"},
-				"south": {"uv": [8.25, 16, 8.5, 16], "texture": "#hardened_clay_stained_magenta"},
-				"west": {"uv": [7.75, 16, 8.25, 16], "texture": "#hardened_clay_stained_magenta"},
-				"up": {"uv": [8.25, 7.75, 8.5, 8.25], "texture": "#hardened_clay_stained_magenta"},
-				"down": {"uv": [7.75, 8.25, 7.5, 7.75], "texture": "#hardened_clay_stained_magenta"}
+				"north": {"uv": [7.5, 15.1, 7.75, 15.1], "texture": "#hardened_clay_stained_magenta"},
+				"east": {"uv": [7.75, 15.1, 8.25, 15.1], "texture": "#hardened_clay_stained_magenta"},
+				"south": {"uv": [8.25, 15.1, 8.5, 15.1], "texture": "#hardened_clay_stained_magenta"},
+				"west": {"uv": [7.75, 15.1, 8.25, 15.1], "texture": "#hardened_clay_stained_magenta"},
+				"up": {"uv": [8.25, 6.85, 8.5, 7.35], "texture": "#hardened_clay_stained_magenta"},
+				"down": {"uv": [7.75, 7.35, 7.5, 6.85], "texture": "#hardened_clay_stained_magenta"}
 			}
 		},
 		{
@@ -1156,12 +1156,12 @@
 			"from": [7.75, -1.875, 7.875],
 			"to": [7.875, -1.75, 8.125],
 			"faces": {
-				"north": {"uv": [8.25, 16, 8.5, 16], "texture": "#hardened_clay_stained_magenta"},
-				"east": {"uv": [7.75, 16, 8.25, 16], "texture": "#hardened_clay_stained_magenta"},
-				"south": {"uv": [7.5, 16, 7.75, 16], "texture": "#hardened_clay_stained_magenta"},
-				"west": {"uv": [7.75, 16, 8.25, 16], "texture": "#hardened_clay_stained_magenta"},
-				"up": {"uv": [7.5, 7.75, 7.75, 8.25], "texture": "#hardened_clay_stained_magenta"},
-				"down": {"uv": [8.5, 8.25, 8.25, 7.75], "texture": "#hardened_clay_stained_magenta"}
+				"north": {"uv": [8.25, 15.1, 8.5, 15.1], "texture": "#hardened_clay_stained_magenta"},
+				"east": {"uv": [7.75, 15.1, 8.25, 15.1], "texture": "#hardened_clay_stained_magenta"},
+				"south": {"uv": [7.5, 15.1, 7.75, 15.1], "texture": "#hardened_clay_stained_magenta"},
+				"west": {"uv": [7.75, 15.1, 8.25, 15.1], "texture": "#hardened_clay_stained_magenta"},
+				"up": {"uv": [7.5, 6.85, 7.75, 7.35], "texture": "#hardened_clay_stained_magenta"},
+				"down": {"uv": [8.5, 7.35, 8.25, 6.85], "texture": "#hardened_clay_stained_magenta"}
 			}
 		},
 		{
@@ -1169,12 +1169,12 @@
 			"from": [7.875, 17.875, 7.625],
 			"to": [8.125, 18.25, 8.375],
 			"faces": {
-				"north": {"uv": [7.75, 0, 8.25, 0], "texture": "#hardened_clay_stained_magenta"},
-				"east": {"uv": [7.25, 0, 8.75, 0], "texture": "#hardened_clay_stained_magenta"},
-				"south": {"uv": [7.75, 0, 8.25, 0], "texture": "#hardened_clay_stained_magenta"},
-				"west": {"uv": [7.25, 0, 8.75, 0], "texture": "#hardened_clay_stained_magenta"},
-				"up": {"uv": [7.75, 7.25, 8.25, 8.75], "texture": "#hardened_clay_stained_magenta"},
-				"down": {"uv": [8.25, 8.75, 7.75, 7.25], "texture": "#hardened_clay_stained_magenta"}
+				"north": {"uv": [7.85, 1.5, 8.35, 1.5], "texture": "#hardened_clay_stained_magenta"},
+				"east": {"uv": [7.35, 1.5, 8.85, 1.5], "texture": "#hardened_clay_stained_magenta"},
+				"south": {"uv": [7.85, 1.5, 8.35, 1.5], "texture": "#hardened_clay_stained_magenta"},
+				"west": {"uv": [7.45, 0.8, 8.95, 0.8], "texture": "#hardened_clay_stained_magenta"},
+				"up": {"uv": [7.85, 8.75, 8.35, 10.25], "texture": "#hardened_clay_stained_magenta"},
+				"down": {"uv": [8.35, 10.25, 7.85, 8.75], "texture": "#hardened_clay_stained_magenta"}
 			}
 		},
 		{
@@ -1182,12 +1182,12 @@
 			"from": [8.125, 17.875, 7.875],
 			"to": [8.375, 18.25, 8.125],
 			"faces": {
-				"north": {"uv": [7.25, 0, 7.75, 0], "texture": "#hardened_clay_stained_magenta"},
-				"east": {"uv": [7.75, 0, 8.25, 0], "texture": "#hardened_clay_stained_magenta"},
-				"south": {"uv": [8.25, 0, 8.75, 0], "texture": "#hardened_clay_stained_magenta"},
-				"west": {"uv": [7.75, 0, 8.25, 0], "texture": "#hardened_clay_stained_magenta"},
-				"up": {"uv": [8.25, 7.75, 8.75, 8.25], "texture": "#hardened_clay_stained_magenta"},
-				"down": {"uv": [7.75, 8.25, 7.25, 7.75], "texture": "#hardened_clay_stained_magenta"}
+				"north": {"uv": [7.35, 1.5, 7.85, 1.5], "texture": "#hardened_clay_stained_magenta"},
+				"east": {"uv": [7.85, 1.5, 8.35, 1.5], "texture": "#hardened_clay_stained_magenta"},
+				"south": {"uv": [8.35, 1.5, 8.85, 1.5], "texture": "#hardened_clay_stained_magenta"},
+				"west": {"uv": [7.95, 0.8, 8.45, 0.8], "texture": "#hardened_clay_stained_magenta"},
+				"up": {"uv": [8.35, 9.25, 8.85, 9.75], "texture": "#hardened_clay_stained_magenta"},
+				"down": {"uv": [7.85, 9.75, 7.35, 9.25], "texture": "#hardened_clay_stained_magenta"}
 			}
 		},
 		{
@@ -1195,12 +1195,12 @@
 			"from": [7.625, 17.875, 7.875],
 			"to": [7.875, 18.25, 8.125],
 			"faces": {
-				"north": {"uv": [8.25, 0, 8.75, 0], "texture": "#hardened_clay_stained_magenta"},
-				"east": {"uv": [7.75, 0, 8.25, 0], "texture": "#hardened_clay_stained_magenta"},
-				"south": {"uv": [7.25, 0, 7.75, 0], "texture": "#hardened_clay_stained_magenta"},
-				"west": {"uv": [7.75, 0, 8.25, 0], "texture": "#hardened_clay_stained_magenta"},
-				"up": {"uv": [7.25, 7.75, 7.75, 8.25], "texture": "#hardened_clay_stained_magenta"},
-				"down": {"uv": [8.75, 8.25, 8.25, 7.75], "texture": "#hardened_clay_stained_magenta"}
+				"north": {"uv": [8.35, 1.5, 8.85, 1.5], "texture": "#hardened_clay_stained_magenta"},
+				"east": {"uv": [7.85, 1.5, 8.35, 1.5], "texture": "#hardened_clay_stained_magenta"},
+				"south": {"uv": [7.35, 1.5, 7.85, 1.5], "texture": "#hardened_clay_stained_magenta"},
+				"west": {"uv": [7.95, 0.8, 8.45, 0.8], "texture": "#hardened_clay_stained_magenta"},
+				"up": {"uv": [7.35, 9.25, 7.85, 9.75], "texture": "#hardened_clay_stained_magenta"},
+				"down": {"uv": [8.85, 9.75, 8.35, 9.25], "texture": "#hardened_clay_stained_magenta"}
 			}
 		},
 		{
@@ -1208,12 +1208,12 @@
 			"from": [8.125, 17.875, 8.125],
 			"to": [8.25, 18.25, 8.25],
 			"faces": {
-				"north": {"uv": [7.5, 0, 7.75, 0], "texture": "#hardened_clay_stained_magenta"},
-				"east": {"uv": [7.5, 0, 7.75, 0], "texture": "#hardened_clay_stained_magenta"},
-				"south": {"uv": [8.25, 0, 8.5, 0], "texture": "#hardened_clay_stained_magenta"},
-				"west": {"uv": [8.25, 0, 8.5, 0], "texture": "#hardened_clay_stained_magenta"},
-				"up": {"uv": [8.25, 8.25, 8.5, 8.5], "texture": "#hardened_clay_stained_magenta"},
-				"down": {"uv": [7.75, 8.5, 7.5, 8.25], "texture": "#hardened_clay_stained_magenta"}
+				"north": {"uv": [7.6, 1.5, 7.85, 1.5], "texture": "#hardened_clay_stained_magenta"},
+				"east": {"uv": [7.6, 1.5, 7.85, 1.5], "texture": "#hardened_clay_stained_magenta"},
+				"south": {"uv": [8.35, 1.5, 8.6, 1.5], "texture": "#hardened_clay_stained_magenta"},
+				"west": {"uv": [8.45, 0.8, 8.7, 0.8], "texture": "#hardened_clay_stained_magenta"},
+				"up": {"uv": [8.35, 9.75, 8.6, 10], "texture": "#hardened_clay_stained_magenta"},
+				"down": {"uv": [7.85, 10, 7.6, 9.75], "texture": "#hardened_clay_stained_magenta"}
 			}
 		},
 		{
@@ -1221,12 +1221,12 @@
 			"from": [8.125, 17.875, 7.75],
 			"to": [8.25, 18.25, 7.875],
 			"faces": {
-				"north": {"uv": [7.5, 0, 7.75, 0], "texture": "#hardened_clay_stained_magenta"},
-				"east": {"uv": [8.25, 0, 8.5, 0], "texture": "#hardened_clay_stained_magenta"},
-				"south": {"uv": [8.25, 0, 8.5, 0], "texture": "#hardened_clay_stained_magenta"},
-				"west": {"uv": [7.5, 0, 7.75, 0], "texture": "#hardened_clay_stained_magenta"},
-				"up": {"uv": [8.25, 7.5, 8.5, 7.75], "texture": "#hardened_clay_stained_magenta"},
-				"down": {"uv": [7.75, 7.75, 7.5, 7.5], "texture": "#hardened_clay_stained_magenta"}
+				"north": {"uv": [7.6, 1.5, 7.85, 1.5], "texture": "#hardened_clay_stained_magenta"},
+				"east": {"uv": [8.35, 1.5, 8.6, 1.5], "texture": "#hardened_clay_stained_magenta"},
+				"south": {"uv": [8.35, 1.5, 8.6, 1.5], "texture": "#hardened_clay_stained_magenta"},
+				"west": {"uv": [7.7, 0.8, 7.95, 0.8], "texture": "#hardened_clay_stained_magenta"},
+				"up": {"uv": [8.35, 9, 8.6, 9.25], "texture": "#hardened_clay_stained_magenta"},
+				"down": {"uv": [7.85, 9.25, 7.6, 9], "texture": "#hardened_clay_stained_magenta"}
 			}
 		},
 		{
@@ -1234,12 +1234,12 @@
 			"from": [7.75, 17.875, 8.125],
 			"to": [7.875, 18.25, 8.25],
 			"faces": {
-				"north": {"uv": [8.25, 0, 8.5, 0], "texture": "#hardened_clay_stained_magenta"},
-				"east": {"uv": [7.5, 0, 7.75, 0], "texture": "#hardened_clay_stained_magenta"},
-				"south": {"uv": [7.5, 0, 7.75, 0], "texture": "#hardened_clay_stained_magenta"},
-				"west": {"uv": [8.25, 0, 8.5, 0], "texture": "#hardened_clay_stained_magenta"},
-				"up": {"uv": [7.5, 8.25, 7.75, 8.5], "texture": "#hardened_clay_stained_magenta"},
-				"down": {"uv": [8.5, 8.5, 8.25, 8.25], "texture": "#hardened_clay_stained_magenta"}
+				"north": {"uv": [8.35, 1.5, 8.6, 1.5], "texture": "#hardened_clay_stained_magenta"},
+				"east": {"uv": [7.6, 1.5, 7.85, 1.5], "texture": "#hardened_clay_stained_magenta"},
+				"south": {"uv": [7.6, 1.5, 7.85, 1.5], "texture": "#hardened_clay_stained_magenta"},
+				"west": {"uv": [8.45, 0.8, 8.7, 0.8], "texture": "#hardened_clay_stained_magenta"},
+				"up": {"uv": [7.6, 9.75, 7.85, 10], "texture": "#hardened_clay_stained_magenta"},
+				"down": {"uv": [8.6, 10, 8.35, 9.75], "texture": "#hardened_clay_stained_magenta"}
 			}
 		},
 		{
@@ -1247,12 +1247,12 @@
 			"from": [7.75, 17.875, 7.75],
 			"to": [7.875, 18.25, 7.875],
 			"faces": {
-				"north": {"uv": [8.25, 0, 8.5, 0], "texture": "#hardened_clay_stained_magenta"},
-				"east": {"uv": [8.25, 0, 8.5, 0], "texture": "#hardened_clay_stained_magenta"},
-				"south": {"uv": [7.5, 0, 7.75, 0], "texture": "#hardened_clay_stained_magenta"},
-				"west": {"uv": [7.5, 0, 7.75, 0], "texture": "#hardened_clay_stained_magenta"},
-				"up": {"uv": [7.5, 7.5, 7.75, 7.75], "texture": "#hardened_clay_stained_magenta"},
-				"down": {"uv": [8.5, 7.75, 8.25, 7.5], "texture": "#hardened_clay_stained_magenta"}
+				"north": {"uv": [8.35, 1.5, 8.6, 1.5], "texture": "#hardened_clay_stained_magenta"},
+				"east": {"uv": [8.35, 1.5, 8.6, 1.5], "texture": "#hardened_clay_stained_magenta"},
+				"south": {"uv": [7.6, 1.5, 7.85, 1.5], "texture": "#hardened_clay_stained_magenta"},
+				"west": {"uv": [7.7, 0.8, 7.95, 0.8], "texture": "#hardened_clay_stained_magenta"},
+				"up": {"uv": [7.6, 9, 7.85, 9.25], "texture": "#hardened_clay_stained_magenta"},
+				"down": {"uv": [8.6, 9.25, 8.35, 9], "texture": "#hardened_clay_stained_magenta"}
 			}
 		},
 		{
@@ -1260,12 +1260,12 @@
 			"from": [7.875, -2.25, 7.625],
 			"to": [8.125, -1.875, 8.375],
 			"faces": {
-				"north": {"uv": [7.75, 16, 8.25, 16], "texture": "#hardened_clay_stained_magenta"},
-				"east": {"uv": [7.25, 16, 8.75, 16], "texture": "#hardened_clay_stained_magenta"},
-				"south": {"uv": [7.75, 16, 8.25, 16], "texture": "#hardened_clay_stained_magenta"},
-				"west": {"uv": [7.25, 16, 8.75, 16], "texture": "#hardened_clay_stained_magenta"},
-				"up": {"uv": [7.75, 7.25, 8.25, 8.75], "texture": "#hardened_clay_stained_magenta"},
-				"down": {"uv": [8.25, 8.75, 7.75, 7.25], "texture": "#hardened_clay_stained_magenta"}
+				"north": {"uv": [7.75, 15.1, 8.25, 15.1], "texture": "#hardened_clay_stained_magenta"},
+				"east": {"uv": [7.25, 15.1, 8.75, 15.1], "texture": "#hardened_clay_stained_magenta"},
+				"south": {"uv": [7.75, 15.1, 8.25, 15.1], "texture": "#hardened_clay_stained_magenta"},
+				"west": {"uv": [7.25, 15.1, 8.75, 15.1], "texture": "#hardened_clay_stained_magenta"},
+				"up": {"uv": [7.75, 6.35, 8.25, 7.85], "texture": "#hardened_clay_stained_magenta"},
+				"down": {"uv": [8.25, 7.85, 7.75, 6.35], "texture": "#hardened_clay_stained_magenta"}
 			}
 		},
 		{
@@ -1273,12 +1273,12 @@
 			"from": [8.125, -2.25, 7.875],
 			"to": [8.375, -1.875, 8.125],
 			"faces": {
-				"north": {"uv": [7.25, 16, 7.75, 16], "texture": "#hardened_clay_stained_magenta"},
-				"east": {"uv": [7.75, 16, 8.25, 16], "texture": "#hardened_clay_stained_magenta"},
-				"south": {"uv": [8.25, 16, 8.75, 16], "texture": "#hardened_clay_stained_magenta"},
-				"west": {"uv": [7.75, 16, 8.25, 16], "texture": "#hardened_clay_stained_magenta"},
-				"up": {"uv": [8.25, 7.75, 8.75, 8.25], "texture": "#hardened_clay_stained_magenta"},
-				"down": {"uv": [7.75, 8.25, 7.25, 7.75], "texture": "#hardened_clay_stained_magenta"}
+				"north": {"uv": [7.25, 15.1, 7.75, 15.1], "texture": "#hardened_clay_stained_magenta"},
+				"east": {"uv": [7.75, 15.1, 8.25, 15.1], "texture": "#hardened_clay_stained_magenta"},
+				"south": {"uv": [8.25, 15.1, 8.75, 15.1], "texture": "#hardened_clay_stained_magenta"},
+				"west": {"uv": [7.75, 15.1, 8.25, 15.1], "texture": "#hardened_clay_stained_magenta"},
+				"up": {"uv": [8.25, 6.85, 8.75, 7.35], "texture": "#hardened_clay_stained_magenta"},
+				"down": {"uv": [7.75, 7.35, 7.25, 6.85], "texture": "#hardened_clay_stained_magenta"}
 			}
 		},
 		{
@@ -1286,12 +1286,12 @@
 			"from": [7.625, -2.25, 7.875],
 			"to": [7.875, -1.875, 8.125],
 			"faces": {
-				"north": {"uv": [8.25, 16, 8.75, 16], "texture": "#hardened_clay_stained_magenta"},
-				"east": {"uv": [7.75, 16, 8.25, 16], "texture": "#hardened_clay_stained_magenta"},
-				"south": {"uv": [7.25, 16, 7.75, 16], "texture": "#hardened_clay_stained_magenta"},
-				"west": {"uv": [7.75, 16, 8.25, 16], "texture": "#hardened_clay_stained_magenta"},
-				"up": {"uv": [7.25, 7.75, 7.75, 8.25], "texture": "#hardened_clay_stained_magenta"},
-				"down": {"uv": [8.75, 8.25, 8.25, 7.75], "texture": "#hardened_clay_stained_magenta"}
+				"north": {"uv": [8.25, 15.1, 8.75, 15.1], "texture": "#hardened_clay_stained_magenta"},
+				"east": {"uv": [7.75, 15.1, 8.25, 15.1], "texture": "#hardened_clay_stained_magenta"},
+				"south": {"uv": [7.25, 15.1, 7.75, 15.1], "texture": "#hardened_clay_stained_magenta"},
+				"west": {"uv": [7.75, 15.1, 8.25, 15.1], "texture": "#hardened_clay_stained_magenta"},
+				"up": {"uv": [7.25, 6.85, 7.75, 7.35], "texture": "#hardened_clay_stained_magenta"},
+				"down": {"uv": [8.75, 7.35, 8.25, 6.85], "texture": "#hardened_clay_stained_magenta"}
 			}
 		},
 		{
@@ -1299,12 +1299,12 @@
 			"from": [8.125, -2.25, 8.125],
 			"to": [8.25, -1.875, 8.25],
 			"faces": {
-				"north": {"uv": [7.5, 16, 7.75, 16], "texture": "#hardened_clay_stained_magenta"},
-				"east": {"uv": [7.5, 16, 7.75, 16], "texture": "#hardened_clay_stained_magenta"},
-				"south": {"uv": [8.25, 16, 8.5, 16], "texture": "#hardened_clay_stained_magenta"},
-				"west": {"uv": [8.25, 16, 8.5, 16], "texture": "#hardened_clay_stained_magenta"},
-				"up": {"uv": [8.25, 8.25, 8.5, 8.5], "texture": "#hardened_clay_stained_magenta"},
-				"down": {"uv": [7.75, 8.5, 7.5, 8.25], "texture": "#hardened_clay_stained_magenta"}
+				"north": {"uv": [7.5, 15.1, 7.75, 15.1], "texture": "#hardened_clay_stained_magenta"},
+				"east": {"uv": [7.5, 15.1, 7.75, 15.1], "texture": "#hardened_clay_stained_magenta"},
+				"south": {"uv": [8.25, 15.1, 8.5, 15.1], "texture": "#hardened_clay_stained_magenta"},
+				"west": {"uv": [8.25, 15.1, 8.5, 15.1], "texture": "#hardened_clay_stained_magenta"},
+				"up": {"uv": [8.25, 7.35, 8.5, 7.6], "texture": "#hardened_clay_stained_magenta"},
+				"down": {"uv": [7.75, 7.6, 7.5, 7.35], "texture": "#hardened_clay_stained_magenta"}
 			}
 		},
 		{
@@ -1312,12 +1312,12 @@
 			"from": [8.125, -2.25, 7.75],
 			"to": [8.25, -1.875, 7.875],
 			"faces": {
-				"north": {"uv": [7.5, 16, 7.75, 16], "texture": "#hardened_clay_stained_magenta"},
-				"east": {"uv": [8.25, 16, 8.5, 16], "texture": "#hardened_clay_stained_magenta"},
-				"south": {"uv": [8.25, 16, 8.5, 16], "texture": "#hardened_clay_stained_magenta"},
-				"west": {"uv": [7.5, 16, 7.75, 16], "texture": "#hardened_clay_stained_magenta"},
-				"up": {"uv": [8.25, 7.5, 8.5, 7.75], "texture": "#hardened_clay_stained_magenta"},
-				"down": {"uv": [7.75, 7.75, 7.5, 7.5], "texture": "#hardened_clay_stained_magenta"}
+				"north": {"uv": [7.5, 15.1, 7.75, 15.1], "texture": "#hardened_clay_stained_magenta"},
+				"east": {"uv": [8.25, 15.1, 8.5, 15.1], "texture": "#hardened_clay_stained_magenta"},
+				"south": {"uv": [8.25, 15.1, 8.5, 15.1], "texture": "#hardened_clay_stained_magenta"},
+				"west": {"uv": [7.5, 15.1, 7.75, 15.1], "texture": "#hardened_clay_stained_magenta"},
+				"up": {"uv": [8.25, 6.6, 8.5, 6.85], "texture": "#hardened_clay_stained_magenta"},
+				"down": {"uv": [7.75, 6.85, 7.5, 6.6], "texture": "#hardened_clay_stained_magenta"}
 			}
 		},
 		{
@@ -1325,12 +1325,12 @@
 			"from": [7.75, -2.25, 8.125],
 			"to": [7.875, -1.875, 8.25],
 			"faces": {
-				"north": {"uv": [8.25, 16, 8.5, 16], "texture": "#hardened_clay_stained_magenta"},
-				"east": {"uv": [7.5, 16, 7.75, 16], "texture": "#hardened_clay_stained_magenta"},
-				"south": {"uv": [7.5, 16, 7.75, 16], "texture": "#hardened_clay_stained_magenta"},
-				"west": {"uv": [8.25, 16, 8.5, 16], "texture": "#hardened_clay_stained_magenta"},
-				"up": {"uv": [7.5, 8.25, 7.75, 8.5], "texture": "#hardened_clay_stained_magenta"},
-				"down": {"uv": [8.5, 8.5, 8.25, 8.25], "texture": "#hardened_clay_stained_magenta"}
+				"north": {"uv": [8.25, 15.1, 8.5, 15.1], "texture": "#hardened_clay_stained_magenta"},
+				"east": {"uv": [7.5, 15.1, 7.75, 15.1], "texture": "#hardened_clay_stained_magenta"},
+				"south": {"uv": [7.5, 15.1, 7.75, 15.1], "texture": "#hardened_clay_stained_magenta"},
+				"west": {"uv": [8.25, 15.1, 8.5, 15.1], "texture": "#hardened_clay_stained_magenta"},
+				"up": {"uv": [7.5, 7.35, 7.75, 7.6], "texture": "#hardened_clay_stained_magenta"},
+				"down": {"uv": [8.5, 7.6, 8.25, 7.35], "texture": "#hardened_clay_stained_magenta"}
 			}
 		},
 		{
@@ -1338,12 +1338,12 @@
 			"from": [7.75, -2.25, 7.75],
 			"to": [7.875, -1.875, 7.875],
 			"faces": {
-				"north": {"uv": [8.25, 16, 8.5, 16], "texture": "#hardened_clay_stained_magenta"},
-				"east": {"uv": [8.25, 16, 8.5, 16], "texture": "#hardened_clay_stained_magenta"},
-				"south": {"uv": [7.5, 16, 7.75, 16], "texture": "#hardened_clay_stained_magenta"},
-				"west": {"uv": [7.5, 16, 7.75, 16], "texture": "#hardened_clay_stained_magenta"},
-				"up": {"uv": [7.5, 7.5, 7.75, 7.75], "texture": "#hardened_clay_stained_magenta"},
-				"down": {"uv": [8.5, 7.75, 8.25, 7.5], "texture": "#hardened_clay_stained_magenta"}
+				"north": {"uv": [8.25, 15.1, 8.5, 15.1], "texture": "#hardened_clay_stained_magenta"},
+				"east": {"uv": [8.25, 15.1, 8.5, 15.1], "texture": "#hardened_clay_stained_magenta"},
+				"south": {"uv": [7.5, 15.1, 7.75, 15.1], "texture": "#hardened_clay_stained_magenta"},
+				"west": {"uv": [7.5, 15.1, 7.75, 15.1], "texture": "#hardened_clay_stained_magenta"},
+				"up": {"uv": [7.5, 6.6, 7.75, 6.85], "texture": "#hardened_clay_stained_magenta"},
+				"down": {"uv": [8.5, 6.85, 8.25, 6.6], "texture": "#hardened_clay_stained_magenta"}
 			}
 		},
 		{
@@ -1351,12 +1351,12 @@
 			"from": [7.875, 18.25, 7.5],
 			"to": [8.125, 20.75, 8.5],
 			"faces": {
-				"north": {"uv": [7.75, 0, 8.25, 0], "texture": "#hardened_clay_stained_magenta"},
-				"east": {"uv": [7, 0, 9, 0], "texture": "#hardened_clay_stained_magenta"},
-				"south": {"uv": [7.75, 0, 8.25, 0], "texture": "#hardened_clay_stained_magenta"},
-				"west": {"uv": [7, 0, 9, 0], "texture": "#hardened_clay_stained_magenta"},
-				"up": {"uv": [7.75, 7, 8.25, 9], "texture": "#hardened_clay_stained_magenta"},
-				"down": {"uv": [8.25, 9, 7.75, 7], "texture": "#hardened_clay_stained_magenta"}
+				"north": {"uv": [7.85, 1.5, 8.35, 1.5], "texture": "#hardened_clay_stained_magenta"},
+				"east": {"uv": [7.1, 1.5, 9.1, 1.5], "texture": "#hardened_clay_stained_magenta"},
+				"south": {"uv": [7.85, 1.5, 8.35, 1.5], "texture": "#hardened_clay_stained_magenta"},
+				"west": {"uv": [7.2, 0.8, 9.2, 0.8], "texture": "#hardened_clay_stained_magenta"},
+				"up": {"uv": [7.85, 8.5, 8.35, 10.5], "texture": "#hardened_clay_stained_magenta"},
+				"down": {"uv": [8.35, 10.5, 7.85, 8.5], "texture": "#hardened_clay_stained_magenta"}
 			}
 		},
 		{
@@ -1364,12 +1364,12 @@
 			"from": [8.125, 18.25, 7.875],
 			"to": [8.5, 20.75, 8.125],
 			"faces": {
-				"north": {"uv": [7, 0, 7.75, 0], "texture": "#hardened_clay_stained_magenta"},
-				"east": {"uv": [7.75, 0, 8.25, 0], "texture": "#hardened_clay_stained_magenta"},
-				"south": {"uv": [8.25, 0, 9, 0], "texture": "#hardened_clay_stained_magenta"},
-				"west": {"uv": [7.75, 0, 8.25, 0], "texture": "#hardened_clay_stained_magenta"},
-				"up": {"uv": [8.25, 7.75, 9, 8.25], "texture": "#hardened_clay_stained_magenta"},
-				"down": {"uv": [7.75, 8.25, 7, 7.75], "texture": "#hardened_clay_stained_magenta"}
+				"north": {"uv": [7.1, 1.5, 7.85, 1.5], "texture": "#hardened_clay_stained_magenta"},
+				"east": {"uv": [7.85, 1.5, 8.35, 1.5], "texture": "#hardened_clay_stained_magenta"},
+				"south": {"uv": [8.35, 1.5, 9.1, 1.5], "texture": "#hardened_clay_stained_magenta"},
+				"west": {"uv": [7.95, 0.8, 8.45, 0.8], "texture": "#hardened_clay_stained_magenta"},
+				"up": {"uv": [8.35, 9.25, 9.1, 9.75], "texture": "#hardened_clay_stained_magenta"},
+				"down": {"uv": [7.85, 9.75, 7.1, 9.25], "texture": "#hardened_clay_stained_magenta"}
 			}
 		},
 		{
@@ -1377,12 +1377,12 @@
 			"from": [7.5, 18.25, 7.875],
 			"to": [7.875, 20.75, 8.125],
 			"faces": {
-				"north": {"uv": [8.25, 0, 9, 0], "texture": "#hardened_clay_stained_magenta"},
-				"east": {"uv": [7.75, 0, 8.25, 0], "texture": "#hardened_clay_stained_magenta"},
-				"south": {"uv": [7, 0, 7.75, 0], "texture": "#hardened_clay_stained_magenta"},
-				"west": {"uv": [7.75, 0, 8.25, 0], "texture": "#hardened_clay_stained_magenta"},
-				"up": {"uv": [7, 7.75, 7.75, 8.25], "texture": "#hardened_clay_stained_magenta"},
-				"down": {"uv": [9, 8.25, 8.25, 7.75], "texture": "#hardened_clay_stained_magenta"}
+				"north": {"uv": [8.35, 1.5, 9.1, 1.5], "texture": "#hardened_clay_stained_magenta"},
+				"east": {"uv": [7.85, 1.5, 8.35, 1.5], "texture": "#hardened_clay_stained_magenta"},
+				"south": {"uv": [7.1, 1.5, 7.85, 1.5], "texture": "#hardened_clay_stained_magenta"},
+				"west": {"uv": [7.95, 0.8, 8.45, 0.8], "texture": "#hardened_clay_stained_magenta"},
+				"up": {"uv": [7.1, 9.25, 7.85, 9.75], "texture": "#hardened_clay_stained_magenta"},
+				"down": {"uv": [9.1, 9.75, 8.35, 9.25], "texture": "#hardened_clay_stained_magenta"}
 			}
 		},
 		{
@@ -1390,12 +1390,12 @@
 			"from": [8.125, 18.25, 8.125],
 			"to": [8.375, 20.75, 8.375],
 			"faces": {
-				"north": {"uv": [7.25, 0, 7.75, 0], "texture": "#hardened_clay_stained_magenta"},
-				"east": {"uv": [7.25, 0, 7.75, 0], "texture": "#hardened_clay_stained_magenta"},
-				"south": {"uv": [8.25, 0, 8.75, 0], "texture": "#hardened_clay_stained_magenta"},
-				"west": {"uv": [8.25, 0, 8.75, 0], "texture": "#hardened_clay_stained_magenta"},
-				"up": {"uv": [8.25, 8.25, 8.75, 8.75], "texture": "#hardened_clay_stained_magenta"},
-				"down": {"uv": [7.75, 8.75, 7.25, 8.25], "texture": "#hardened_clay_stained_magenta"}
+				"north": {"uv": [7.35, 1.5, 7.85, 1.5], "texture": "#hardened_clay_stained_magenta"},
+				"east": {"uv": [7.35, 1.5, 7.85, 1.5], "texture": "#hardened_clay_stained_magenta"},
+				"south": {"uv": [8.35, 1.5, 8.85, 1.5], "texture": "#hardened_clay_stained_magenta"},
+				"west": {"uv": [8.45, 0.8, 8.95, 0.8], "texture": "#hardened_clay_stained_magenta"},
+				"up": {"uv": [8.35, 9.75, 8.85, 10.25], "texture": "#hardened_clay_stained_magenta"},
+				"down": {"uv": [7.85, 10.25, 7.35, 9.75], "texture": "#hardened_clay_stained_magenta"}
 			}
 		},
 		{
@@ -1403,12 +1403,12 @@
 			"from": [8.125, 18.25, 7.625],
 			"to": [8.375, 20.75, 7.875],
 			"faces": {
-				"north": {"uv": [7.25, 0, 7.75, 0], "texture": "#hardened_clay_stained_magenta"},
-				"east": {"uv": [8.25, 0, 8.75, 0], "texture": "#hardened_clay_stained_magenta"},
-				"south": {"uv": [8.25, 0, 8.75, 0], "texture": "#hardened_clay_stained_magenta"},
-				"west": {"uv": [7.25, 0, 7.75, 0], "texture": "#hardened_clay_stained_magenta"},
-				"up": {"uv": [8.25, 7.25, 8.75, 7.75], "texture": "#hardened_clay_stained_magenta"},
-				"down": {"uv": [7.75, 7.75, 7.25, 7.25], "texture": "#hardened_clay_stained_magenta"}
+				"north": {"uv": [7.35, 1.5, 7.85, 1.5], "texture": "#hardened_clay_stained_magenta"},
+				"east": {"uv": [8.35, 1.5, 8.85, 1.5], "texture": "#hardened_clay_stained_magenta"},
+				"south": {"uv": [8.35, 1.5, 8.85, 1.5], "texture": "#hardened_clay_stained_magenta"},
+				"west": {"uv": [7.45, 0.8, 7.95, 0.8], "texture": "#hardened_clay_stained_magenta"},
+				"up": {"uv": [8.35, 8.75, 8.85, 9.25], "texture": "#hardened_clay_stained_magenta"},
+				"down": {"uv": [7.85, 9.25, 7.35, 8.75], "texture": "#hardened_clay_stained_magenta"}
 			}
 		},
 		{
@@ -1416,12 +1416,12 @@
 			"from": [7.625, 18.25, 8.125],
 			"to": [7.875, 20.75, 8.375],
 			"faces": {
-				"north": {"uv": [8.25, 0, 8.75, 0], "texture": "#hardened_clay_stained_magenta"},
-				"east": {"uv": [7.25, 0, 7.75, 0], "texture": "#hardened_clay_stained_magenta"},
-				"south": {"uv": [7.25, 0, 7.75, 0], "texture": "#hardened_clay_stained_magenta"},
-				"west": {"uv": [8.25, 0, 8.75, 0], "texture": "#hardened_clay_stained_magenta"},
-				"up": {"uv": [7.25, 8.25, 7.75, 8.75], "texture": "#hardened_clay_stained_magenta"},
-				"down": {"uv": [8.75, 8.75, 8.25, 8.25], "texture": "#hardened_clay_stained_magenta"}
+				"north": {"uv": [8.35, 1.5, 8.85, 1.5], "texture": "#hardened_clay_stained_magenta"},
+				"east": {"uv": [7.35, 1.5, 7.85, 1.5], "texture": "#hardened_clay_stained_magenta"},
+				"south": {"uv": [7.35, 1.5, 7.85, 1.5], "texture": "#hardened_clay_stained_magenta"},
+				"west": {"uv": [8.45, 0.8, 8.95, 0.8], "texture": "#hardened_clay_stained_magenta"},
+				"up": {"uv": [7.35, 9.75, 7.85, 10.25], "texture": "#hardened_clay_stained_magenta"},
+				"down": {"uv": [8.85, 10.25, 8.35, 9.75], "texture": "#hardened_clay_stained_magenta"}
 			}
 		},
 		{
@@ -1429,12 +1429,12 @@
 			"from": [7.625, 18.25, 7.625],
 			"to": [7.875, 20.75, 7.875],
 			"faces": {
-				"north": {"uv": [8.25, 0, 8.75, 0], "texture": "#hardened_clay_stained_magenta"},
-				"east": {"uv": [8.25, 0, 8.75, 0], "texture": "#hardened_clay_stained_magenta"},
-				"south": {"uv": [7.25, 0, 7.75, 0], "texture": "#hardened_clay_stained_magenta"},
-				"west": {"uv": [7.25, 0, 7.75, 0], "texture": "#hardened_clay_stained_magenta"},
-				"up": {"uv": [7.25, 7.25, 7.75, 7.75], "texture": "#hardened_clay_stained_magenta"},
-				"down": {"uv": [8.75, 7.75, 8.25, 7.25], "texture": "#hardened_clay_stained_magenta"}
+				"north": {"uv": [8.35, 1.5, 8.85, 1.5], "texture": "#hardened_clay_stained_magenta"},
+				"east": {"uv": [8.35, 1.5, 8.85, 1.5], "texture": "#hardened_clay_stained_magenta"},
+				"south": {"uv": [7.35, 1.5, 7.85, 1.5], "texture": "#hardened_clay_stained_magenta"},
+				"west": {"uv": [7.45, 0.8, 7.95, 0.8], "texture": "#hardened_clay_stained_magenta"},
+				"up": {"uv": [7.35, 8.75, 7.85, 9.25], "texture": "#hardened_clay_stained_magenta"},
+				"down": {"uv": [8.85, 9.25, 8.35, 8.75], "texture": "#hardened_clay_stained_magenta"}
 			}
 		},
 		{
@@ -1442,12 +1442,12 @@
 			"from": [7.875, -4.75, 7.5],
 			"to": [8.125, -2.25, 8.5],
 			"faces": {
-				"north": {"uv": [7.75, 16, 8.25, 16], "texture": "#hardened_clay_stained_magenta"},
-				"east": {"uv": [7, 16, 9, 16], "texture": "#hardened_clay_stained_magenta"},
-				"south": {"uv": [7.75, 16, 8.25, 16], "texture": "#hardened_clay_stained_magenta"},
-				"west": {"uv": [7, 16, 9, 16], "texture": "#hardened_clay_stained_magenta"},
-				"up": {"uv": [7.75, 7, 8.25, 9], "texture": "#hardened_clay_stained_magenta"},
-				"down": {"uv": [8.25, 9, 7.75, 7], "texture": "#hardened_clay_stained_magenta"}
+				"north": {"uv": [7.75, 15.1, 8.25, 15.1], "texture": "#hardened_clay_stained_magenta"},
+				"east": {"uv": [7, 15.1, 9, 15.1], "texture": "#hardened_clay_stained_magenta"},
+				"south": {"uv": [7.75, 15.1, 8.25, 15.1], "texture": "#hardened_clay_stained_magenta"},
+				"west": {"uv": [7, 15.1, 9, 15.1], "texture": "#hardened_clay_stained_magenta"},
+				"up": {"uv": [7.75, 6.1, 8.25, 8.1], "texture": "#hardened_clay_stained_magenta"},
+				"down": {"uv": [8.25, 8.1, 7.75, 6.1], "texture": "#hardened_clay_stained_magenta"}
 			}
 		},
 		{
@@ -1455,12 +1455,12 @@
 			"from": [8.125, -4.75, 7.875],
 			"to": [8.5, -2.25, 8.125],
 			"faces": {
-				"north": {"uv": [7, 16, 7.75, 16], "texture": "#hardened_clay_stained_magenta"},
-				"east": {"uv": [7.75, 16, 8.25, 16], "texture": "#hardened_clay_stained_magenta"},
-				"south": {"uv": [8.25, 16, 9, 16], "texture": "#hardened_clay_stained_magenta"},
-				"west": {"uv": [7.75, 16, 8.25, 16], "texture": "#hardened_clay_stained_magenta"},
-				"up": {"uv": [8.25, 7.75, 9, 8.25], "texture": "#hardened_clay_stained_magenta"},
-				"down": {"uv": [7.75, 8.25, 7, 7.75], "texture": "#hardened_clay_stained_magenta"}
+				"north": {"uv": [7, 15.1, 7.75, 15.1], "texture": "#hardened_clay_stained_magenta"},
+				"east": {"uv": [7.75, 15.1, 8.25, 15.1], "texture": "#hardened_clay_stained_magenta"},
+				"south": {"uv": [8.25, 15.1, 9, 15.1], "texture": "#hardened_clay_stained_magenta"},
+				"west": {"uv": [7.75, 15.1, 8.25, 15.1], "texture": "#hardened_clay_stained_magenta"},
+				"up": {"uv": [8.25, 6.85, 9, 7.35], "texture": "#hardened_clay_stained_magenta"},
+				"down": {"uv": [7.75, 7.35, 7, 6.85], "texture": "#hardened_clay_stained_magenta"}
 			}
 		},
 		{
@@ -1468,12 +1468,12 @@
 			"from": [7.5, -4.75, 7.875],
 			"to": [7.875, -2.25, 8.125],
 			"faces": {
-				"north": {"uv": [8.25, 16, 9, 16], "texture": "#hardened_clay_stained_magenta"},
-				"east": {"uv": [7.75, 16, 8.25, 16], "texture": "#hardened_clay_stained_magenta"},
-				"south": {"uv": [7, 16, 7.75, 16], "texture": "#hardened_clay_stained_magenta"},
-				"west": {"uv": [7.75, 16, 8.25, 16], "texture": "#hardened_clay_stained_magenta"},
-				"up": {"uv": [7, 7.75, 7.75, 8.25], "texture": "#hardened_clay_stained_magenta"},
-				"down": {"uv": [9, 8.25, 8.25, 7.75], "texture": "#hardened_clay_stained_magenta"}
+				"north": {"uv": [8.25, 15.1, 9, 15.1], "texture": "#hardened_clay_stained_magenta"},
+				"east": {"uv": [7.75, 15.1, 8.25, 15.1], "texture": "#hardened_clay_stained_magenta"},
+				"south": {"uv": [7, 15.1, 7.75, 15.1], "texture": "#hardened_clay_stained_magenta"},
+				"west": {"uv": [7.75, 15.1, 8.25, 15.1], "texture": "#hardened_clay_stained_magenta"},
+				"up": {"uv": [7, 6.85, 7.75, 7.35], "texture": "#hardened_clay_stained_magenta"},
+				"down": {"uv": [9, 7.35, 8.25, 6.85], "texture": "#hardened_clay_stained_magenta"}
 			}
 		},
 		{
@@ -1481,12 +1481,12 @@
 			"from": [8.125, -4.75, 8.125],
 			"to": [8.375, -2.25, 8.375],
 			"faces": {
-				"north": {"uv": [7.25, 16, 7.75, 16], "texture": "#hardened_clay_stained_magenta"},
-				"east": {"uv": [7.25, 16, 7.75, 16], "texture": "#hardened_clay_stained_magenta"},
-				"south": {"uv": [8.25, 16, 8.75, 16], "texture": "#hardened_clay_stained_magenta"},
-				"west": {"uv": [8.25, 16, 8.75, 16], "texture": "#hardened_clay_stained_magenta"},
-				"up": {"uv": [8.25, 8.25, 8.75, 8.75], "texture": "#hardened_clay_stained_magenta"},
-				"down": {"uv": [7.75, 8.75, 7.25, 8.25], "texture": "#hardened_clay_stained_magenta"}
+				"north": {"uv": [7.25, 15.1, 7.75, 15.1], "texture": "#hardened_clay_stained_magenta"},
+				"east": {"uv": [7.25, 15.1, 7.75, 15.1], "texture": "#hardened_clay_stained_magenta"},
+				"south": {"uv": [8.25, 15.1, 8.75, 15.1], "texture": "#hardened_clay_stained_magenta"},
+				"west": {"uv": [8.25, 15.1, 8.75, 15.1], "texture": "#hardened_clay_stained_magenta"},
+				"up": {"uv": [8.25, 7.35, 8.75, 7.85], "texture": "#hardened_clay_stained_magenta"},
+				"down": {"uv": [7.75, 7.85, 7.25, 7.35], "texture": "#hardened_clay_stained_magenta"}
 			}
 		},
 		{
@@ -1494,12 +1494,12 @@
 			"from": [8.125, -4.75, 7.625],
 			"to": [8.375, -2.25, 7.875],
 			"faces": {
-				"north": {"uv": [7.25, 16, 7.75, 16], "texture": "#hardened_clay_stained_magenta"},
-				"east": {"uv": [8.25, 16, 8.75, 16], "texture": "#hardened_clay_stained_magenta"},
-				"south": {"uv": [8.25, 16, 8.75, 16], "texture": "#hardened_clay_stained_magenta"},
-				"west": {"uv": [7.25, 16, 7.75, 16], "texture": "#hardened_clay_stained_magenta"},
-				"up": {"uv": [8.25, 7.25, 8.75, 7.75], "texture": "#hardened_clay_stained_magenta"},
-				"down": {"uv": [7.75, 7.75, 7.25, 7.25], "texture": "#hardened_clay_stained_magenta"}
+				"north": {"uv": [7.25, 15.1, 7.75, 15.1], "texture": "#hardened_clay_stained_magenta"},
+				"east": {"uv": [8.25, 15.1, 8.75, 15.1], "texture": "#hardened_clay_stained_magenta"},
+				"south": {"uv": [8.25, 15.1, 8.75, 15.1], "texture": "#hardened_clay_stained_magenta"},
+				"west": {"uv": [7.25, 15.1, 7.75, 15.1], "texture": "#hardened_clay_stained_magenta"},
+				"up": {"uv": [8.25, 6.35, 8.75, 6.85], "texture": "#hardened_clay_stained_magenta"},
+				"down": {"uv": [7.75, 6.85, 7.25, 6.35], "texture": "#hardened_clay_stained_magenta"}
 			}
 		},
 		{
@@ -1507,12 +1507,12 @@
 			"from": [7.625, -4.75, 8.125],
 			"to": [7.875, -2.25, 8.375],
 			"faces": {
-				"north": {"uv": [8.25, 16, 8.75, 16], "texture": "#hardened_clay_stained_magenta"},
-				"east": {"uv": [7.25, 16, 7.75, 16], "texture": "#hardened_clay_stained_magenta"},
-				"south": {"uv": [7.25, 16, 7.75, 16], "texture": "#hardened_clay_stained_magenta"},
-				"west": {"uv": [8.25, 16, 8.75, 16], "texture": "#hardened_clay_stained_magenta"},
-				"up": {"uv": [7.25, 8.25, 7.75, 8.75], "texture": "#hardened_clay_stained_magenta"},
-				"down": {"uv": [8.75, 8.75, 8.25, 8.25], "texture": "#hardened_clay_stained_magenta"}
+				"north": {"uv": [8.25, 15.1, 8.75, 15.1], "texture": "#hardened_clay_stained_magenta"},
+				"east": {"uv": [7.25, 15.1, 7.75, 15.1], "texture": "#hardened_clay_stained_magenta"},
+				"south": {"uv": [7.25, 15.1, 7.75, 15.1], "texture": "#hardened_clay_stained_magenta"},
+				"west": {"uv": [8.25, 15.1, 8.75, 15.1], "texture": "#hardened_clay_stained_magenta"},
+				"up": {"uv": [7.25, 7.35, 7.75, 7.85], "texture": "#hardened_clay_stained_magenta"},
+				"down": {"uv": [8.75, 7.85, 8.25, 7.35], "texture": "#hardened_clay_stained_magenta"}
 			}
 		},
 		{
@@ -1520,12 +1520,12 @@
 			"from": [7.625, -4.75, 7.625],
 			"to": [7.875, -2.25, 7.875],
 			"faces": {
-				"north": {"uv": [8.25, 16, 8.75, 16], "texture": "#hardened_clay_stained_magenta"},
-				"east": {"uv": [8.25, 16, 8.75, 16], "texture": "#hardened_clay_stained_magenta"},
-				"south": {"uv": [7.25, 16, 7.75, 16], "texture": "#hardened_clay_stained_magenta"},
-				"west": {"uv": [7.25, 16, 7.75, 16], "texture": "#hardened_clay_stained_magenta"},
-				"up": {"uv": [7.25, 7.25, 7.75, 7.75], "texture": "#hardened_clay_stained_magenta"},
-				"down": {"uv": [8.75, 7.75, 8.25, 7.25], "texture": "#hardened_clay_stained_magenta"}
+				"north": {"uv": [8.25, 15.1, 8.75, 15.1], "texture": "#hardened_clay_stained_magenta"},
+				"east": {"uv": [8.25, 15.1, 8.75, 15.1], "texture": "#hardened_clay_stained_magenta"},
+				"south": {"uv": [7.25, 15.1, 7.75, 15.1], "texture": "#hardened_clay_stained_magenta"},
+				"west": {"uv": [7.25, 15.1, 7.75, 15.1], "texture": "#hardened_clay_stained_magenta"},
+				"up": {"uv": [7.25, 6.35, 7.75, 6.85], "texture": "#hardened_clay_stained_magenta"},
+				"down": {"uv": [8.75, 6.85, 8.25, 6.35], "texture": "#hardened_clay_stained_magenta"}
 			}
 		}
 	],

@@ -1,0 +1,70 @@
+{
+	"texture": "kenobi.png",
+	"textureSize": [64, 80],
+	"models": [
+		{
+			"part": "body",
+			"id": "body",
+			"invertAxis": "xy",
+			"translate": [0, -31, 0],
+			"boxes": [
+				{"coordinates": [-4, 24, -4, 8, 8, 8], "textureOffset": [0, 0]},
+				{"coordinates": [-4, 12, -2, 8, 12, 4], "textureOffset": [16, 16]},
+				{"coordinates": [-4, 0, -2, 8, 24, 4], "textureOffset": [2, 32], "sizeAdd": 0.25},
+				{"coordinates": [6, 11, -16, 0, 16, 16], "textureOffset": [0, 48]},
+				{"coordinates": [0, 0, -2, 4, 12, 4], "textureOffset": [0, 16]}
+			],
+			"submodels": [
+				{
+					"invertAxis": "xy",
+					"mirrorTexture": "u",
+					"boxes": [
+						{"coordinates": [-8, 12, -2, 4, 12, 4], "textureOffset": [40, 16]},
+						{"coordinates": [-8.5, 12, -2, 4, 12, 4], "textureOffset": [48, 48], "sizeAdd": 0.25},
+						{"coordinates": [-4, 0, -2, 4, 12, 4], "textureOffset": [0, 16]}
+					]
+				},
+				{
+					"id": "arm",
+					"invertAxis": "xy",
+					"translate": [0, -0.25, -3.25],
+					"rotate": [10, 0, 0],
+					"boxes": [
+						{"coordinates": [4, 12, -3, 4, 12, 4], "textureOffset": [40, 16]},
+						{"coordinates": [4, 12, -3, 4, 12, 4], "textureOffset": [40, 32], "sizeAdd": 0.25}
+					]
+				}
+			]
+		},
+		{
+			"part": "head",
+			"id": "head",
+			"invertAxis": "xy",
+			"translate": [0, -31, 2]
+		},
+		{
+			"part": "right_arm",
+			"id": "right_arm",
+			"invertAxis": "xy",
+			"translate": [0, -31, 0]
+		},
+		{
+			"part": "left_arm",
+			"id": "left_arm",
+			"invertAxis": "xy",
+			"translate": [0, -31, 0]
+		},
+		{
+			"part": "right_leg",
+			"id": "right_leg",
+			"invertAxis": "xy",
+			"translate": [-4, -13, 0]
+		},
+		{
+			"part": "left_leg",
+			"id": "left_leg",
+			"invertAxis": "xy",
+			"translate": [5, -13, 0]
+		}
+	]
+}

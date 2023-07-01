@@ -1,11 +1,11 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"Lightsaber_e&w": "reserv items/Crossguard Lightsaber (Purple)/Lightsaber_e&w",
-		"Lightsaber_n&s": "reserv items/Crossguard Lightsaber (Purple)/Lightsaber_n&s",
-		"Lightsaber_u": "reserv items/Crossguard Lightsaber (Purple)/Lightsaber_u",
-		"Lightsaber_d": "reserv items/Crossguard Lightsaber (Purple)/Lightsaber_d",
-		"color_01": "reserv items/Crossguard Lightsaber (Purple)/Lightsaber_Bladecolor_01"
+		"Lightsaber_e&w": "reserv items/otreklegend/otreklegend_e&w",
+		"Lightsaber_n&s": "reserv items/otreklegend/otreklegend_n&s",
+		"Lightsaber_u": "reserv items/otreklegend/otreklegend_u",
+		"Lightsaber_d": "reserv items/otreklegend/otreklegend_d",
+		"color_01": "reserv items/otreklegend/otreklegend_01"
 	},
 	"elements": [
 		{

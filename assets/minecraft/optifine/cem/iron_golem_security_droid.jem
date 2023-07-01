@@ -1,0 +1,77 @@
+{
+	"texture": "security_droid.png",
+	"textureSize": [68, 32],
+	"models": [
+		{
+			"part": "body",
+			"id": "body",
+			"invertAxis": "xy",
+			"translate": [0, -31, 0],
+			"boxes": [
+				{"coordinates": [-4, 25, -2, 8, 5, 4], "textureOffset": [32, 23]},
+				{"coordinates": [-4, 31, -2, 8, 3, 4], "textureOffset": [32, 20], "sizeAdd": 1},
+				{"coordinates": [-5, 36.5, -1, 0, 2, 2], "textureOffset": [24, 20], "sizeAdd": 1},
+				{"coordinates": [-3, 36, -2, 6, 3, 4], "textureOffset": [33, 20], "sizeAdd": 1},
+				{"coordinates": [5, 36.5, -1, 0, 2, 2], "textureOffset": [24, 20], "sizeAdd": 1}
+			]
+		},
+		{
+			"part": "head",
+			"id": "head",
+			"invertAxis": "xy",
+			"translate": [0, -31, 2],
+			"boxes": [
+				{"coordinates": [-3, 40, -4, 6, 6, 6], "textureOffset": [0, 4]},
+				{"coordinates": [-3, 40, -4, 6, 6, 6], "textureOffset": [24, 4], "sizeAdd": 0.5}
+			]
+		},
+		{
+			"part": "right_arm",
+			"id": "right_arm",
+			"invertAxis": "xy",
+			"translate": [0, -31, 0],
+			"boxes": [
+				{"coordinates": [6, 12.5, -1.5, 2, 26, 3], "textureOffset": [56, 3]}
+			]
+		},
+		{
+			"part": "left_arm",
+			"id": "left_arm",
+			"invertAxis": "xy",
+			"translate": [0, -31, 0],
+			"submodels": [
+				{
+					"invertAxis": "xy",
+					"mirrorTexture": "u",
+					"boxes": [
+						{"coordinates": [-8, 12.5, -1.5, 2, 26, 3], "textureOffset": [56, 3]}
+					]
+				}
+			]
+		},
+		{
+			"part": "right_leg",
+			"id": "right_leg",
+			"invertAxis": "xy",
+			"translate": [-4, -13, 0],
+			"boxes": [
+				{"coordinates": [2, 0, -1.5, 3, 27, 3], "textureOffset": [56, 4]}
+			]
+		},
+		{
+			"part": "left_leg",
+			"id": "left_leg",
+			"invertAxis": "xy",
+			"translate": [5, -13, 0],
+			"submodels": [
+				{
+					"invertAxis": "xy",
+					"mirrorTexture": "u",
+					"boxes": [
+						{"coordinates": [-5, 0, -1.5, 3, 27, 3], "textureOffset": [56, 4]}
+					]
+				}
+			]
+		}
+	]
+}

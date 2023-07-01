@@ -1,0 +1,40 @@
+{
+	"texture": "slime.png",
+	"textureSize": [64, 64],
+	"models": [
+		{
+			"part": "body",
+			"id": "body",
+			"invertAxis": "xy",
+			"translate": [0, -24, 0],
+			"boxes": [
+				{"coordinates": [-4.5, -0.25, -4.5, 9, 9, 9], "textureOffset": [0, 0]},
+				{"coordinates": [-2.25, 5.75, -9, 1, 1, 2], "textureOffset": [0, 3]},
+				{"coordinates": [1.25, 5.75, -9, 1, 1, 2], "textureOffset": [0, 3]},
+				{"coordinates": [1.75, 4.25, -8.5, 1, 1, 2], "textureOffset": [0, 6], "sizeAdd": -0.1},
+				{"coordinates": [-2.75, 4.25, -8.5, 1, 1, 2], "textureOffset": [0, 6], "sizeAdd": -0.1},
+				{"coordinates": [-2.5, 1.5, -8.5, 5, 2, 5], "textureOffset": [0, 18], "sizeAdd": -0.1},
+				{"coordinates": [-0.5, 1, -8.75, 1, 2, 1], "textureOffset": [5, 2], "sizeAdd": -0.1},
+				{"coordinates": [-2, 3.25, -8, 4, 3, 4], "textureOffset": [20, 18], "sizeAdd": -0.1}
+			]
+		},
+		{
+			"part": "right_eye",
+			"id": "right_eye",
+			"invertAxis": "xy",
+			"translate": [0, -24, 0]
+		},
+		{
+			"part": "left_eye",
+			"id": "left_eye",
+			"invertAxis": "xy",
+			"translate": [0, -24, 0]
+		},
+		{
+			"part": "mouth",
+			"id": "mouth",
+			"invertAxis": "xy",
+			"translate": [0, -24, 0]
+		}
+	]
+}

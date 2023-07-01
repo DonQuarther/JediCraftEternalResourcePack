@@ -1,0 +1,16 @@
+{
+	"texture": "textures/entity/trident.png",
+	"textureSize": [32, 32],
+	"models": [
+		{
+			"part": "body",
+			"id": "body",
+			"invertAxis": "xy",
+			"translate": [0, -27, 0],
+			"boxes": [
+				{"coordinates": [-0.5, 21, -0.5, 1, 13, 1], "textureOffset": [4, 0]},
+				{"coordinates": [-0.5, 17, -0.5, 1, 4, 1], "textureOffset": [0, 0]}
+			]
+		}
+	]
+}

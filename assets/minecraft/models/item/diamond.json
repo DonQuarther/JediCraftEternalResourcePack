@@ -1,0 +1,32 @@
+{
+	"parent": "item/generated",
+	"textures": {
+	"layer0": "item/diamond"
+ },
+ 
+"overrides": [ 
+		{"predicate": {"custom_model_data":1}, "model": "item/custommodeldata/amulet1"},
+		{"predicate": {"custom_model_data":2}, "model": "item/custommodeldata/eggred"},
+		{"predicate": {"custom_model_data":3}, "model": "item/custommodeldata/neutraltoken"},
+		{"predicate": {"custom_model_data":4}, "model": "item/custommodeldata/run"},
+		{"predicate": {"custom_model_data":5}, "model": "item/custommodeldata/swordcore"},
+		{"predicate": {"custom_model_data":6}, "model": "item/custommodeldata/tradecall"},
+		{"predicate": {"custom_model_data":7}, "model": "item/custommodeldata/golokrons/oskolokznaniy"},
+		{"predicate": {"custom_model_data":8}, "model": "item/custommodeldata/mifik/force1"},
+		{"predicate": {"custom_model_data":9}, "model": "item/custommodeldata/mifik/force2"},
+		{"predicate": {"custom_model_data":10}, "model": "item/custommodeldata/mifik/force3"},
+		{"predicate": {"custom_model_data":11}, "model": "item/custommodeldata/mifik/force4"},
+		{"predicate": {"custom_model_data":12}, "model": "item/custommodeldata/mifik/force5"},
+		{"predicate": {"custom_model_data":13}, "model": "item/custommodeldata/mifik/force6"},
+		{"predicate": {"custom_model_data":14}, "model": "item/custommodeldata/mifik/mifi4"},
+		{"predicate": {"custom_model_data":15}, "model": "item/custommodeldata/panels/1"},
+		{"predicate": {"custom_model_data":16}, "model": "item/custommodeldata/panels/2"},
+		{"predicate": {"custom_model_data":17}, "model": "item/custommodeldata/panels/3"},
+		{"predicate": {"custom_model_data":18}, "model": "item/custommodeldata/panels/4"},
+		{"predicate": {"custom_model_data":19}, "model": "item/custommodeldata/panels/5"},
+		{"predicate": {"custom_model_data":20}, "model": "item/custommodeldata/panels/6"},
+		{"predicate": {"custom_model_data":21}, "model": "item/custommodeldata/panels/7"},
+			{"predicate": {"custom_model_data":22}, "model": "item/custommodeldata/panels/8"}
+		
+]
+}
